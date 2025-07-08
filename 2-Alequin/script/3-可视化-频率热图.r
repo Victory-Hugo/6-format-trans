@@ -23,8 +23,8 @@ setwd("/mnt/c/Users/Administrator/Desktop")
 rm(list=ls())
 
 # 读取数据
-mydata<-read.table("Fst(1).csv",header=TRUE,sep=",",row.names = 1) # 输入Fst文件
-group <-read.table("/mnt/f/3_陈静项目/3_配对比较分析/output/热图_label.tsv",header=TRUE,sep="\t", row.names = 1) # 输入标签文件
+mydata<-read.table("/mnt/f/OneDrive/文档（科研）/脚本/Download/6-format-trans/2-Alequin/conf/Fst.csv",header=TRUE,sep=",",row.names = 1) # 输入Fst文件
+group <-read.table("/mnt/f/OneDrive/文档（科研）/脚本/Download/6-format-trans/2-Alequin/conf/group.csv",header=TRUE,sep=",", row.names = 1) # 输入标签文件
 
 # 创建绘图PDF
 #pdf("FstMatrix1.pdf", width=11, height=8.5)
@@ -78,8 +78,8 @@ pheatmap(mydata,
          fontsize = 1, # 字体大小
          fontsize_row = 1, # 横轴文字大小
          fontsize_col = 1, # 纵轴字体大小
-         #annotation_col = group, # 列是否进行标签的标记
-         #annotation_row = group, # 行是否进行标签的标记
+         annotation_col = group, # 列是否进行标签的标记
+         annotation_row = group, # 行是否进行标签的标记
          cellwidth = 1, # 单元格的宽度
          cellheight = 1, # 单元格的高度
          cutree_cols = 10, # 手动调整列聚类的数量 # ! 聚类的数量并不代表群体真实的分层，受限于算法的局限性。
