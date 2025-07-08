@@ -1,0 +1,59 @@
+ND3
+
+     Region          3..23
+                     /gene="MT-ND3"
+                     /gene_synonym="MTND3"
+                     /gene_synonym="NADH3"
+                     /gene_synonym="ND3"
+                     /region_name="Transmembrane region"
+                     /inference="non-experimental evidence, no additional
+                     details recorded"
+                     /note="Potential."
+     
+     Region          22..115
+                     /gene="MT-ND3"
+                     /gene_synonym="MTND3"
+                     /gene_synonym="NADH3"
+                     /gene_synonym="ND3"
+                     /region_name="Oxidored_q4"
+                     /note="NADH-ubiquinone/plastoquinone oxidoreductase, chain 3; cl00535"
+                     /db_xref="CDD:119912"
+     Region          45
+                     /gene="MT-ND3"
+                     /gene_synonym="MTND3"
+                     /gene_synonym="NADH3"
+                     /gene_synonym="ND3"
+                     /region_name="Variant"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="S -> P (in complex I deficiency).
+                     /FTId=VAR_035091."
+     Region          47
+                     /gene="MT-ND3"
+                     /gene_synonym="MTND3"
+                     /gene_synonym="NADH3"
+                     /gene_synonym="ND3"
+                     /region_name="Variant"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="A -> T (in LS). /FTId=VAR_035092."
+  
+     Region          55..75
+                     /gene="MT-ND3"
+                     /gene_synonym="MTND3"
+                     /gene_synonym="NADH3"
+                     /gene_synonym="ND3"
+                     /region_name="Transmembrane region"
+                     /inference="non-experimental evidence, no additional
+                     details recorded"
+                     /note="Potential."
+     Region          84..104
+                     /gene="MT-ND3"
+                     /gene_synonym="MTND3"
+                     /gene_synonym="NADH3"
+                     /gene_synonym="ND3"
+                     /region_name="Transmembrane region"
+                     /inference="non-experimental evidence, no additional
+                     details recorded"
+                     /note="Potential."
+   

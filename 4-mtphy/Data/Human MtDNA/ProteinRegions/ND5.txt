@@ -1,0 +1,249 @@
+ND5
+
+  
+          Region          38..58
+                     /gene="MT-ND5"
+                     /gene_synonym="MTND5"
+                     /gene_synonym="NADH5"
+                     /gene_synonym="ND5"
+                     /region_name="Transmembrane region"
+                     /inference="non-experimental evidence, no additional
+                     details recorded"
+                     /note="Potential."
+     Region          62..123
+                     /gene="MT-ND5"
+                     /gene_synonym="MTND5"
+                     /gene_synonym="NADH5"
+                     /gene_synonym="ND5"
+                     /region_name="Oxidored_q1_N"
+                     /note="NADH-Ubiquinone oxidoreductase (complex I), chain 5  N-terminus; pfam00662"
+                     /db_xref="CDD:109709"
+     Region          87..107
+                     /gene="MT-ND5"
+                     /gene_synonym="MTND5"
+                     /gene_synonym="NADH5"
+                     /gene_synonym="ND5"
+                     /region_name="Transmembrane region"
+                     /inference="non-experimental evidence, no additional
+                     details recorded"
+                     /note="Potential."
+   
+     Region          122..142
+                     /gene="MT-ND5"
+                     /gene_synonym="MTND5"
+                     /gene_synonym="NADH5"
+                     /gene_synonym="ND5"
+                     /region_name="Transmembrane region"
+                     /inference="non-experimental evidence, no additional
+                     details recorded"
+                     /note="Potential."
+     Region          124
+                     /gene="MT-ND5"
+                     /gene_synonym="MTND5"
+                     /gene_synonym="NADH5"
+                     /gene_synonym="ND5"
+                     /region_name="Variant"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="F -> L (in LS; due to mitochondrial complex I deficiency). 
+                     /FTId=VAR_035424."
+     Region          134..397
+                     /gene="MT-ND5"
+                     /gene_synonym="MTND5"
+                     /gene_synonym="NADH5"
+                     /gene_synonym="ND5"
+                     /region_name="Oxidored_q1"
+                     /note="NADH-Ubiquinone/plastoquinone (complex I), various chains; cl02850"
+                     /db_xref="CDD:121596"
+     Region          144..160
+                     /gene="MT-ND5"
+                     /gene_synonym="MTND5"
+                     /gene_synonym="NADH5"
+                     /gene_synonym="ND5"
+                     /region_name="Transmembrane region"
+                     /inference="non-experimental evidence, no additional
+                     details recorded"
+                     /note="Potential."
+     Region          145
+                     /gene="MT-ND5"
+                     /gene_synonym="MTND5"
+                     /gene_synonym="NADH5"
+                     /gene_synonym="ND5"
+                     /region_name="Variant"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="E -> G (in MELAS). /FTId=VAR_035425."
+  
+     Region          171..191
+                     /gene="MT-ND5"
+                     /gene_synonym="MTND5"
+                     /gene_synonym="NADH5"
+                     /gene_synonym="ND5"
+                     /region_name="Transmembrane region"
+                     /inference="non-experimental evidence, no additional
+                     details recorded"
+                     /note="Potential."
+     Region          171
+                     /gene="MT-ND5"
+                     /gene_synonym="MTND5"
+                     /gene_synonym="NADH5"
+                     /gene_synonym="ND5"
+                     /region_name="Variant"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="A -> V (in LHON). /FTId=VAR_035426."
+     Region          211..233
+                     /gene="MT-ND5"
+                     /gene_synonym="MTND5"
+                     /gene_synonym="NADH5"
+                     /gene_synonym="ND5"
+                     /region_name="Transmembrane region"
+                     /inference="non-experimental evidence, no additional
+                     details recorded"
+                     /note="Potential."
+  
+     Region          236
+                     /gene="MT-ND5"
+                     /gene_synonym="MTND5"
+                     /gene_synonym="NADH5"
+                     /gene_synonym="ND5"
+                     /region_name="Variant"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="A -> T (in MELAS/MERRF/LS; due to mitochondrial complex I deficiency). 
+                     /FTId=VAR_035427."
+     Region          237
+                     /gene="MT-ND5"
+                     /gene_synonym="MTND5"
+                     /gene_synonym="NADH5"
+                     /gene_synonym="ND5"
+                     /region_name="Variant"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="M -> L (in MELAS/LHON/LS; due to mitochondrial complex I deficiency). 
+                     /FTId=VAR_035428."
+     Region          241..261
+                     /gene="MT-ND5"
+                     /gene_synonym="MTND5"
+                     /gene_synonym="NADH5"
+                     /gene_synonym="ND5"
+                     /region_name="Transmembrane region"
+                     /inference="non-experimental evidence, no additional
+                     details recorded"
+                     /note="Potential."
+     Region          250
+                     /gene="MT-ND5"
+                     /gene_synonym="MTND5"
+                     /gene_synonym="NADH5"
+                     /gene_synonym="ND5"
+                     /region_name="Variant"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="S -> C (in MELAS/LS; due to mitochondrial complex I deficiency). 
+                     /FTId=VAR_035429."
+ 
+     Region          272..292
+                     /gene="MT-ND5"
+                     /gene_synonym="MTND5"
+                     /gene_synonym="NADH5"
+                     /gene_synonym="ND5"
+                     /region_name="Transmembrane region"
+                     /inference="non-experimental evidence, no additional
+                     details recorded"
+                     /note="Potential."
+     Region          301..320
+                     /gene="MT-ND5"
+                     /gene_synonym="MTND5"
+                     /gene_synonym="NADH5"
+                     /gene_synonym="ND5"
+                     /region_name="Transmembrane region"
+                     /inference="non-experimental evidence, no additional
+                     details recorded"
+                     /note="Potential."
+ 
+     Region          325..347
+                     /gene="MT-ND5"
+                     /gene_synonym="MTND5"
+                     /gene_synonym="NADH5"
+                     /gene_synonym="ND5"
+                     /region_name="Transmembrane region"
+                     /inference="non-experimental evidence, no additional
+                     details recorded"
+                     /note="Potential."
+    
+     Region          370..390
+                     /gene="MT-ND5"
+                     /gene_synonym="MTND5"
+                     /gene_synonym="NADH5"
+                     /gene_synonym="ND5"
+                     /region_name="Transmembrane region"
+                     /inference="non-experimental evidence, no additional
+                     details recorded"
+                     /note="Potential."
+     Region          393
+                     /gene="MT-ND5"
+                     /gene_synonym="MTND5"
+                     /gene_synonym="NADH5"
+                     /gene_synonym="ND5"
+                     /region_name="Variant"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="D -> N (in MELAS). /FTId=VAR_035430."
+     Region          407..429
+                     /gene="MT-ND5"
+                     /gene_synonym="MTND5"
+                     /gene_synonym="NADH5"
+                     /gene_synonym="ND5"
+                     /region_name="Transmembrane region"
+                     /inference="non-experimental evidence, no additional
+                     details recorded"
+                     /note="Potential."
+    
+     Region          458..478
+                     /gene="MT-ND5"
+                     /gene_synonym="MTND5"
+                     /gene_synonym="NADH5"
+                     /gene_synonym="ND5"
+                     /region_name="Transmembrane region"
+                     /inference="non-experimental evidence, no additional
+                     details recorded"
+                     /note="Potential."
+     Region          458
+                     /gene="MT-ND5"
+                     /gene_synonym="MTND5"
+                     /gene_synonym="NADH5"
+                     /gene_synonym="ND5"
+                     /region_name="Variant"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="A -> T (in LHON; secondary mutation; does not seem to directly cause the disease). 
+                     /FTId=VAR_004761."
+     Region          465
+                     /gene="MT-ND5"
+                     /gene_synonym="MTND5"
+                     /gene_synonym="NADH5"
+                     /gene_synonym="ND5"
+                     /region_name="Variant"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="G -> E (in LHON; primary rare mutation).
+                     /FTId=VAR_004762."
+ 
+     Region          482..502
+                     /gene="MT-ND5"
+                     /gene_synonym="MTND5"
+                     /gene_synonym="NADH5"
+                     /gene_synonym="ND5"
+                     /region_name="Transmembrane region"
+                     /inference="non-experimental evidence, no additional
+                     details recorded"
+                     /note="Potential."
+      Region          582..602
+                     /gene="MT-ND5"
+                     /gene_synonym="MTND5"
+                     /gene_synonym="NADH5"
+                     /gene_synonym="ND5"
+                     /region_name="Transmembrane region"
+                     /inference="non-experimental evidence, no additional
+                     details recorded"
+                     /note="Potential."

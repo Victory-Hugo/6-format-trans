@@ -1,0 +1,49 @@
+ND4
+     Region          1..21
+                     /gene="MT-ND4L"
+                     /gene_synonym="MTND4L"
+                     /gene_synonym="NADH4L"
+                     /gene_synonym="ND4L"
+                     /region_name="Transmembrane region"
+                     /inference="non-experimental evidence, no additional
+                     details recorded"
+                     /note="Potential."
+     Region          29..49
+                     /gene="MT-ND4L"
+                     /gene_synonym="MTND4L"
+                     /gene_synonym="NADH4L"
+                     /gene_synonym="ND4L"
+                     /region_name="Transmembrane region"
+                     /inference="non-experimental evidence, no additional
+                     details recorded"
+                     /note="Potential."
+     Region          32
+                     /gene="MT-ND4L"
+                     /gene_synonym="MTND4L"
+                     /gene_synonym="NADH4L"
+                     /gene_synonym="ND4L"
+                     /region_name="Variant"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="C -> R (in colorectal cancer). /FTId=VAR_008496."
+  
+     Region          58..78
+                     /gene="MT-ND4L"
+                     /gene_synonym="MTND4L"
+                     /gene_synonym="NADH4L"
+                     /gene_synonym="ND4L"
+                     /region_name="Transmembrane region"
+                     /inference="non-experimental evidence, no additional
+                     details recorded"
+                     /note="Potential."
+    
+     Region          65
+                     /gene="MT-ND4L"
+                     /gene_synonym="MTND4L"
+                     /gene_synonym="NADH4L"
+                     /gene_synonym="ND4L"
+                     /region_name="Variant"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="V -> A (in LHON; possible rare primary mutation).
+                     /FTId=VAR_008397."

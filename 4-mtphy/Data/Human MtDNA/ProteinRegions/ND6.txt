@@ -1,0 +1,132 @@
+ND6
+     Region          1..21
+                     /gene="MT-ND6"
+                     /gene_synonym="MTND6"
+                     /gene_synonym="NADH6"
+                     /gene_synonym="ND6"
+                     /region_name="Transmembrane region"
+                     /inference="non-experimental evidence, no additional
+                     details recorded"
+                     /note="Potential."
+     Region          26..46
+                     /gene="MT-ND6"
+                     /gene_synonym="MTND6"
+                     /gene_synonym="NADH6"
+                     /gene_synonym="ND6"
+                     /region_name="Transmembrane region"
+                     /inference="non-experimental evidence, no additional
+                     details recorded"
+                     /note="Potential."
+     Region          26
+                     /gene="MT-ND6"
+                     /gene_synonym="MTND6"
+                     /gene_synonym="NADH6"
+                     /gene_synonym="ND6"
+                     /region_name="Variant"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="I -> M (in LDYT; possible rare primary mutation).
+                     /FTId=VAR_008394."
+   
+     Region          36
+                     /gene="MT-ND6"
+                     /gene_synonym="MTND6"
+                     /gene_synonym="NADH6"
+                     /gene_synonym="ND6"
+                     /region_name="Variant"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="G -> S (in LHON; possible rare primary mutation).
+                     /FTId=VAR_008395."
+     Region          47..67
+                     /gene="MT-ND6"
+                     /gene_synonym="MTND6"
+                     /gene_synonym="NADH6"
+                     /gene_synonym="ND6"
+                     /region_name="Transmembrane region"
+                     /inference="non-experimental evidence, no additional
+                     details recorded"
+                     /note="Potential."
+   
+     Region          59
+                     /gene="MT-ND6"
+                     /gene_synonym="MTND6"
+                     /gene_synonym="NADH6"
+                     /gene_synonym="ND6"
+                     /region_name="Variant"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Y -> C (in LHON; possible rare primary mutation).
+                     /FTId=VAR_008396."
+     Region          60
+                     /gene="MT-ND6"
+                     /gene_synonym="MTND6"
+                     /gene_synonym="NADH6"
+                     /gene_synonym="ND6"
+                     /region_name="Variant"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="L -> S (in LHON; possible rare primary mutation).
+                     /FTId=VAR_014396."
+     Region          64
+                     /gene="MT-ND6"
+                     /gene_synonym="MTND6"
+                     /gene_synonym="NADH6"
+                     /gene_synonym="ND6"
+                     /region_name="Variant"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="M -> I (in LHON; possible rare primary mutation).
+                     /FTId=VAR_008512."
+     Region          64
+                     /gene="MT-ND6"
+                     /gene_synonym="MTND6"
+                     /gene_synonym="NADH6"
+                     /gene_synonym="ND6"
+                     /region_name="Variant"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="M -> V (in LHON; primary mutation; low severity; up
+                     to 50% of vision recovery). /FTId=VAR_004763."
+     Region          72
+                     /gene="MT-ND6"
+                     /gene_synonym="MTND6"
+                     /gene_synonym="NADH6"
+                     /gene_synonym="ND6"
+                     /region_name="Variant"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="A -> V (in LDYT; primary mutation; most severe
+                     mutation with no vision recovery; rare mutation).
+                     /FTId=VAR_004764."
+     Region          74
+                     /gene="MT-ND6"
+                     /gene_synonym="MTND6"
+                     /gene_synonym="NADH6"
+                     /gene_synonym="ND6"
+                     /region_name="Variant"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="A -> V (in MELAS). /FTId=VAR_014397."
+  
+ 
+     Region          111..131
+                     /gene="MT-ND6"
+                     /gene_synonym="MTND6"
+                     /gene_synonym="NADH6"
+                     /gene_synonym="ND6"
+                     /region_name="Transmembrane region"
+                     /inference="non-experimental evidence, no additional
+                     details recorded"
+                     /note="Potential."
+  
+     Region          151..171
+                     /gene="MT-ND6"
+                     /gene_synonym="MTND6"
+                     /gene_synonym="NADH6"
+                     /gene_synonym="ND6"
+                     /region_name="Transmembrane region"
+                     /inference="non-experimental evidence, no additional
+                     details recorded"
+                     /note="Potential."
+    

@@ -1,0 +1,19 @@
+ATP8
+     Region          8..24
+                     /gene="MT-ATP8"
+                     /gene_synonym="ATP8"
+                     /gene_synonym="ATPASE8"
+                     /gene_synonym="MTATP8"
+                     /region_name="Transmembrane region"
+                     /inference="non-experimental evidence, no additional details recorded"
+                     /note="Potential."
+    
+     
+     Site            54
+                     /gene="MT-ATP8"
+                     /gene_synonym="ATP8"
+                     /gene_synonym="ATPASE8"
+                     /gene_synonym="MTATP8"
+                     /site_type="modified"
+                     /inference="non-experimental evidence, no additional details recorded"
+                     /note="N6-acetyllysine (By similarity)."

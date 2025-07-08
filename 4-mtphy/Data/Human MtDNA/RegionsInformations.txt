@@ -1,0 +1,439 @@
+    
+    gene            3307..4262
+                     /gene="ND1"
+                     /translation="MPMANLLLLIVPILIAMAFLMLTERKILGYMQLRKGPNVVGPYGLLQPFADAMKLFTKEPLKPATSTITLYITAPTLALTIALLLWTPLPMPNPLVNLNLGLLFILATSSLAVYSILWSGWASNSNYALIGALRAVAQTISYEVTLAIILLSTLLMSGSFNLSTLITTQEHLWLLLPSWPLAMMWFISTLAETNRTPFDLAEGESELVSGFNIEYAAGPFALFFMAEYTNIIMMNTLTTTIFLGTTYDALSPELYTTYFVTKTLLLTSLFLWIRTAYPRFRYDQLMHLLWKNFLPLTLALLMWYVSMPITISSIPPQT"
+                     /ConservationIndexes="39, 31 6 21 2 36 16 36 18 34 32 10 33 27 37 11 38 17 38 38 39 7 38 8 39 39 39 18 38 38 36 35 39 30 39 39 39 39 39 11 37 39 36 28 39 35 37 39 39 19 38 39 35 13 39 39 37 27 39 39 37 30 10 39 6 37 36 11 10 13 21 13 33 5 35 39 14 34 35 36 25 11 37 36 10 14 39 11 38 34 38 36 38 8 34 38 8 31 18 39 37 36 16 38 38 20 39 36 13 38 37 39 26 39 39 36 35 38 36 38 39 39 36 38 39 39 11 39 37 39 32 39 36 38 39 39 39 39 39 38 39 39 39 39 36 36 35 34 32 38 37 39 35 6 31 34 30 18 39 35 32 11 37 24 27 35 29 22 37 39 37 17 16 37 35 17 17 32 16 38 39 34 33 33 38 39 32 33 38 38 39 39 39 39 39 39 7 39 39 39 38 3 39 39 39 39 39 39 39 39 39 39 38 7 39 39 35 35 38 37 37 39 32 38 38 23 39 39 39 10 38 39 32 28 39 38 8 28 36 21 12 15 38 29 32 15 7 11 3 3 2 8 36 36 31 23 29 12 3 31 6 11 36 27 32 29 37 32 14 14 39 38 39 30 39 6 6 38 39 39 38 38 39 39 38 39 39 36 39 36 39 39 33 39 39 38 35 38 39 35 31 10 32 38 9 13 33 11 36 31 9 7 19 20 29 38 37 32 26 34"
+                     /FileNameOfProteinRegions="ProteinRegions\ND1.txt"
+
+
+     gene            4470..5511
+                     /gene="ND2" 
+                     /translation="MNPLAQPVIYSTIFAGTLITALSSHWFFTWVGLEMNMLAFIPVLTKKMNPRSTEAAIKYFLTQATASMILLMAILFNNMLSGQWTMTNTTNQYSSLMIMMAMAMKLGMAPFHFWVPEVTQGTPLTSGLLLLTWQKLAPISIMYQISPSLNVSLLLTLSILSIMAGSWGGLNQTQLRKILAYSSITHMGWMMAVLPYNPNMTILNLTIYIILTTTAFLLLNLNSSTTTLLLSRTWNKLTWLTPLIPSTLLSLGGLPPLTGFLPKWAIIEEFTKNNSLIIPTIMATITLLNLYFYLRLIYSTSITLLPMSNNVKMKWQFEHTKPTPFLPTLIALTTLLLPISPFMLMIL"
+                     /ConservationIndexes="39, 37 33 38 19 12 10 8 2 31 15 6 32 12 14 7 37 36 14 30 22 6 12 38 32 36 36 10 7 7 39 10 38 24 39 30 34 23 36 37 12 34 39 8 28 12 27 24 6 22 35 38 22 25 39 37 22 11 39 39 37 36 34 39 32 33 39 38 31 16 32 14 26 28 23 8 1 38 9 17 9 28 37 29 37 30 5 17 12 7 15 36 12 7 16 30 11 22 10 4 11 37 6 21 29 39 35 39 16 28 38 37 38 35 38 31 39 38 38 32 38 39 7 21 36 15 26 34 29 13 38 35 39 38 38 39 29 36 39 12 33 26 10 30 35 28 20 25 27 11 35 5 3 22 22 26 22 17 17 17 28 39 28 9 4 38 9 38 36 39 39 39 39 39 37 35 38 39 34 20 37 33 38 39 39 10 38 33 38 39 38 11 27 15 27 14 32 33 36 9 13 28 18 35 31 33 13 31 39 29 15 18 37 9 25 5 36 14 17 21 9 14 24 31 20 35 28 25 27 6 36 31 8 22 37 34 38 9 10 8 14 25 10 24 22 8 8 22 31 32 39 30 37 39 39 39 39 37 20 38 38 14 38 38 38 7 32 35 7 37 6 28 30 32 17 14 11 32 10 29 33 11 35 32 2 7 10 39 34 33 38 29 39 39 12 39 36 17 39 28 24 23 8 38 13 9 37 6 14 33 36 7 35 30 25 36 27 26 22 5 25 32 13 14 13 7 27 28 20 28 18 2 20 8 28 18 31 37 37 11 14 36 5 10 13 7 7 7 36"
+                     /FileNameOfProteinRegions="ProteinRegions\ND2.txt"
+
+     gene            5904..7445
+                     /gene="COI"
+                     /translation="MFADRWLFSTNHKDIGTLYLLFGAWAGVLGTALSLLIRAELGQPGNLLGNDHIYNVIVTAHAFVMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRMNNMSFWLLPPSLLLLLASAMVEAGAGTGWTVYPPLAGNYSHPGASVDLTIFSLHLAGVSSILGAINFITTIINMKPPAMTQYQTPLFVWSVLITAVLLLLSLPVLAAGITMLLTDRNLNTTFFDPAGGGDPILYQHLFWFFGHPEVYILILPGFGMISHIVTYYSGKKEPFGYMGMVWAMMSIGFLGFIVWAHHMFTVGMDVDTRAYFTSATMIIAIPTGVKVFSWLATLHGSNMKWSAAVLWALGFIFLFTVGGLTGIVLANSSLDIVLHDTYYVVAHFHYVLSMGAVFAIMGGFIHWFPLFSGYTLDQTYAKIHFTIMFIGVNLTFFPQHFLGLSGMPRRYSDYPDAYTTWNILSSVGSFISLTAVMLMIFMIWEAFASKRKVLMVEEPSMNLEWLYGCPPPYHTFEEPVYMKS"
+                     /ConservationIndexes="39, 37 33 5 7 38 39 38 36 39 39 39 39 39 39 39 39 39 39 39 37 32 39 39 36 39 39 39 8 7 39 38 33 38 39 34 39 39 39 36 39 39 36 38 39 39 9 39 35 37 9 39 10 36 39 39 39 30 39 39 38 39 39 39 34 39 39 39 39 38 39 39 39 36 37 37 39 39 39 39 39 39 39 37 39 39 39 38 39 39 39 39 39 39 39 39 39 37 39 39 39 39 39 39 38 39 38 39 38 5 36 39 39 34 35 39 8 27 33 39 38 39 36 39 39 39 39 38 39 39 39 39 39 37 38 38 7 10 39 10 39 36 39 39 39 39 31 39 39 38 38 38 38 38 38 29 39 39 39 39 38 39 38 39 39 39 39 39 34 39 39 39 38 37 38 38 31 10 38 38 37 37 39 39 39 39 39 39 33 35 36 39 39 34 39 39 39 39 35 39 39 39 39 39 38 38 39 39 39 39 39 39 39 39 39 39 39 39 38 39 39 39 39 36 39 39 39 39 39 37 39 39 39 39 39 39 39 39 39 39 38 39 39 39 39 39 39 39 39 39 39 39 39 31 37 39 39 34 38 32 32 38 38 38 39 38 39 38 39 39 38 38 39 39 36 38 38 39 31 37 39 39 36 39 39 39 39 39 39 39 39 39 39 39 39 39 37 33 38 39 39 39 39 39 38 39 39 38 39 39 39 39 39 39 37 39 39 39 37 39 38 39 39 38 39 39 39 37 38 39 7 31 3 37 38 34 9 34 4 32 39 39 39 39 39 38 39 39 39 39 35 39 39 39 39 39 37 37 39 35 39 39 39 38 39 39 35 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 36 32 38 38 13 39 39 38 39 39 37 31 39 33 37 38 15 16 35 8 35 39 31 34 39 13 30 38 39 8 39 39 39 23 39 39 39 39 39 39 39 39 39 39 34 37 39 39 39 38 39 39 39 39 39 39 39 39 38 26 39 39 10 11 39 38 7 39 39 33 38 39 37 33 38 36 24 30 35 23 37 25 33 39 39 37 38 32 35 37 39 12 37 20 10 24 31 4 10 18 1 34 28 39 39 37 9 37 37 39 38 37 34 39 38 35 37 36 35 11 30 7 19 5 14"
+                     /FileNameOfProteinRegions="ProteinRegions\COI.txt"
+
+
+     gene            7586..8269
+                     /gene="COII"
+                     /translation="MAHAAQVGLQDATSPIMEELITFHDHALMIIFLICFLVLYALFLTLTTKLTNTNISDAQEMETVWTILPAIILVLIALPSLRILYMTDEVNDPSLTIKSIGHQWYWTYEYTDYGGLIFNSYMLPPLFLEPGDLRLLDVDNRVVLPIEAPIRMMITSQDVLHSWAVPTLGLKTDAIPGRLNQTTFTATRPGVYYGQCSEICGANHSFMPIVLELIPLKIFEMGPVFTL"
+                      /ConservationIndexes="39, 39 35 13 7 8 35 7 38 16 38 38 38 29 38 39 33 39 39 38 39 9 3 39 38 39 38 14 38 38 34 9 35 36 39 7 9 39 38 37 39 9 10 9 29 9 36 34 35 36 38 34 12 34 11 10 7 34 35 39 38 10 39 33 14 39 39 38 38 39 39 33 36 39 8 31 38 39 39 39 39 39 37 36 39 39 29 10 39 39 6 37 11 39 27 29 39 16 39 9 14 39 39 39 39 38 39 9 39 39 39 35 38 35 9 9 38 9 38 9 39 39 38 9 37 9 9 9 39 8 34 38 12 31 39 39 39 7 37 39 35 38 31 35 35 38 5 33 10 19 25 39 30 9 29 14 34 10 39 39 37 38 38 39 31 33 39 6 37 39 30 39 34 39 38 33 39 39 39 39 38 39 25 30 13 16 15 26 38 39 39 15 23 39 39 39 39 39 39 39 39 39 16 39 39 39 38 39 39 39 37 31 39 23 11 37 37 27 9 39 37 9 9 9 10 9 7 26 30"
+                     /FileNameOfProteinRegions="ProteinRegions\COII.txt"
+
+     gene            8366..8572
+                     /gene="ATP8"
+                     /translation="MPQLNTTVWPTMITPMLLTLFLITQLKMLNTNYHLPPSPKPMKMKNYNKPWEPKWTKICSLHSLPPQS"
+                     /ConservationIndexes="39, 39 38 38 37 12 32 5 5 39 7 17 8 32 8 6 29 13 26 28 35 31 11 15 8 35 32 37 6 14 12 4 8 23 9 7 11 33 7 12 27 6 8 19 7 10 5 3 11 8 33 38 27 7 32 39 36 34 28 3 16 6 12 28 27 29 12 22 9 12"
+                     /FileNameOfProteinRegions="ProteinRegions\ATP8.txt"
+
+     gene            8527..9207
+                     /gene="ATP6"
+                     /translation="MNENLFASFIAPTILGLPAAVLIILFPPLLIPTSKYLINNRLITTQQWLIKLTSKQMMTMHNTKGRTWSLMLVSLIIFIATTNLLGLLPHSFTPTTQLSMNLAMAIPLWAGTVIMGFRSKIKNALAHFLPQGTPTPLIPMLVIIETISLLIQPMALAVRLTANITAGHLLMHLIGSATLAMSTINLPSTLIIFTILILLTILEIAVALIQAYVFTLLVSLYLHDNT"
+                     /ConservationIndexes="39, 37 33 32 33 35 38 25 25 38 17 8 37 26 13 21 36 24 34 9 8 10 28 29 27 16 30 37 6 18 35 10 31 18 16 13 3 31 30 29 37 37 27 21 13 7 37 29 36 31 24 7 33 20 18 37 37 30 32 17 9 34 30 9 32 39 16 30 37 20 38 33 36 6 35 39 31 10 35 35 10 6 33 39 35 38 39 36 35 39 28 29 39 38 38 39 38 38 39 37 34 37 31 12 34 38 33 39 39 39 28 28 28 36 19 14 38 29 37 2 34 1 34 9 8 38 35 39 24 37 39 35 39 39 39 20 25 39 37 39 33 37 21 30 39 39 39 37 39 38 10 39 33 39 20 37 38 35 38 39 39 39 39 39 34 38 39 39 39 38 39 23 34 39 36 35 9 33 30 34 25 4 11 7 33 12 12 12 5 8 18 28 6 29 16 27 36 20 38 39 35 27 39 39 8 37 38 39 27 39 39 38 39 39 39 33 38 39 32 37 39 39 38 34 29 38 29 39 "
+                     /FileNameOfProteinRegions="ProteinRegions\ATP6.txt"
+
+     gene            9207..9990
+                     /gene="COIII"
+                     /translation="MTHQSHAYHMVKPSPWPLTGALSALLMTSGLAMWFHFHSMTLLMLGLLTNTLTMYQWWRDVTRESTYQGHHTPPVQKGLRYGMILFITSEVFFFAGFFWAFYHSSLAPTPQLGGHWPPTGITPLNPLEVPLLNTSVLLASGVSITWAHHSLMENNRNQMIQALLITILLGLYFTLLQASEYFESPFTISDGIYGSTFFVATGFHGLHVIIGSTFLTICFIRQLMFHFTSKHHFGFEAAAWYWHFVDVVWLFLYVSIYWWGS"
+                     /ConservationIndexes="39, 38 31 39 38 7 39 33 37 39 38 38 9 38 39 39 39 39 38 37 39 39 31 34 39 34 37 24 37 38 39 38 12 36 39 39 39 27 8 36 9 16 39 35 6 29 38 33 19 33 32 8 37 36 36 31 39 39 39 39 39 18 1 39 39 22 39 15 38 39 38 39 39 26 12 39 38 37 36 39 39 38 39 39 31 39 39 39 12 39 39 35 28 39 39 19 38 39 39 39 38 39 37 38 39 39 39 34 39 38 33 8 38 39 34 10 39 39 39 34 38 36 12 37 38 36 38 32 36 38 39 39 39 39 39 30 34 39 39 39 39 39 39 30 33 39 39 39 39 39 38 35 37 35 9 33 37 7 18 30 17 37 34 39 13 32 39 37 18 39 39 15 39 39 39 28 38 39 33 30 39 39 11 39 5 25 39 35 39 32 39 33 18 39 39 39 39 39 39 23 36 39 39 39 39 39 37 39 39 38 39 39 34 34 39 39 11 8 39 16 11 38 37 29 4 28 39 39 38 35 11 39 39 39 39 39 38 37 38 37 39 39 39 39 39 39 39 38 36 39 39 38 39 39 31 38 38 39 39 39 39 37 36"
+                     /FileNameOfProteinRegions="ProteinRegions\COIII.txt"
+
+     gene            10059..10404
+                     /gene="ND3"
+                     /translation="MNFALILMINTLLALLLMIITFWLPQLNGYMEKSTPYECGFDPMSPARVPFSMKFFLVAITFLLFDLEIALLLPLPWALQTTNLPLMVMSSLLLIIILALSLAYEWLQKGLDWTE"
+                     /ConservationIndexes="39, 32 34 6 6 23 8 34 8 12 33 26 18 35 23 15 24 35 8 10 29 8 37 36 36 36 37 30 31 1 33 8 38 38 12 2 38 38 39 39 39 39 39 39 19 8 9 37 38 3 39 38 39 35 34 39 39 38 33 37 39 34 39 39 38 39 39 38 39 38 39 37 38 39 37 35 37 38 36 8 35 28 13 29 26 8 14 27 4 4 7 11 25 11 33 31 11 17 39 26 20 22 39 33 38 39 39 8 36 30 38 39 10 39 21 34 37"
+                     /FileNameOfProteinRegions="ProteinRegions\ND3.txt"
+
+     gene            10470..10766
+                     /gene="ND4L"
+                     /translation="MPLIYMNIMLAFTISLLGMLVYRSHLMSSLLCLEGMMLSLFIMA
+                     TLMTLNTHSLLANIVPIAMLVFAACEAAVGLALLVSISNTYGLDYVHNLNLLQC"
+                     /ConservationIndexes="39, 39 15 19 17 21 19 34 25 12 23 37 37 18 12 29 37 18 38 14 31 8 33 38 33 38 38 34 37 28 39 39 38 39 39 37 38 35 37 35 31 37 25 26 12 19 25 14 10 33 30 14 32 11 7 29 22 14 10 6 36 28 1 9 39 34 38 33 38 37 38 36 34 21 39 39 26 37 38 35 10 14 33 34 35 33 38 12 38 30 29 6 35 38 37 37 38 36 38 38"
+                     /FileNameOfProteinRegions="ProteinRegions\ND4L.txt"
+
+     gene            10760..12137
+                     /gene="ND4"
+                     /translation="MLKLIVPTIMLLPLTWLSKKHMIWINTTTHSLIISIIPLLFFNQINNNLFSCSPTFSSDPLTTPLLMLTTWLLPLTIMASQRHLSSEPLSRKKLYLSMLISLQISLIMTFTATELIMFYIFFETTLIPTLAIITRWGNQPERLNAGTYFLFYTLVGSLPLLIALIYTHNTLGSLNILLLTLTAQELSNSWANNLMWLAYTMAFMVKMPLYGLHLWLPKAHVEAPIAGSMVLAAVLLKLGGYGMMRLTLILNPLTKHMAYPFLVLSLWGMIMTSSICLRQTDLKSLIAYSSISHMALVVTAILIQTPWSFTGAVILMIAHGLTSSLLFCLANSNYERTHSRIMILSQGLQTLLPLMAFWWLLASLANLALPPTINLLGELSVLVTTFSWSNITLLLTGLNMLVTALYSLYMFTTTQWGSLTHHINNMKPSFTRENTLMFMHLSPILLLSLNPDIITGFSS"
+                     /ConservationIndexes="39, 39 39 39 9 33 3 36 35 24 37 38 15 39 26 31 33 26 34 30 12 7 23 26 38 29 35 22 35 15 19 37 31 10 37 34 3 22 9 38 16 12 8 28 29 4 16 9 25 9 5 10 3 34 5 10 30 12 30 38 21 36 8 26 38 39 35 9 39 34 20 39 37 38 38 39 4 18 27 39 38 38 4 37 34 21 3 34 25 18 11 30 34 33 31 30 12 17 31 35 31 11 38 38 14 11 38 34 35 34 39 21 37 28 36 36 33 17 37 39 36 5 39 39 11 38 39 31 39 39 38 3 36 39 36 36 39 39 34 39 10 37 39 39 37 39 38 11 39 37 39 39 39 39 38 12 36 39 36 39 38 38 17 30 36 18 23 11 9 32 15 10 38 28 37 32 12 24 18 24 11 20 13 11 18 7 26 8 15 27 37 6 30 12 18 14 37 35 33 7 9 33 38 39 31 34 39 36 39 36 38 38 30 36 39 39 39 39 39 39 39 39 39 39 39 37 38 39 39 39 33 39 39 38 19 38 39 39 39 39 37 39 39 34 25 39 9 28 8 19 36 21 37 24 33 12 12 32 31 37 38 37 22 3 37 35 37 38 39 34 32 38 37 38 35 35 38 39 39 39 38 39 38 39 38 37 39 39 39 38 39 3 38 39 39 33 38 38 7 5 36 28 30 33 37 37 35 35 34 21 8 38 37 3 9 38 38 33 37 38 38 38 37 38 39 14 35 37 39 39 39 38 26 35 39 39 38 19 37 36 38 10 36 29 34 10 7 39 38 36 22 26 33 39 37 35 30 6 39 39 33 28 37 35 37 14 39 34 38 37 39 39 29 35 39 37 13 38 39 37 8 24 9 7 9 7 37 34 39 38 28 16 36 6 11 37 16 36 17 35 17 18 1 38 33 29 39 33 36 34 38 14 13 21 34 39 4 39 3 14 30 23 37 24 19 27 10 22 36 28 28 38 39 39 27 15 38 39 5 10 39 18 5 39 9 27 33 38 25 29 32 38 4 24 35 7 37 10 1 5 34"
+                     /FileNameOfProteinRegions="ProteinRegions\ND4.txt"
+
+     gene            12337..14148
+                     /gene="ND5"
+                     /translation="MTMHTTMTTLTLTSLIPPILTTLVNPNKKNSYPHYVKSIVASTF
+                     IISLFPTTMFMCLDQEVIISNWHWATTQTTQLSLSFKLDYFSMMFIPVALFVTWSIME
+                     FSLWYMNSDPNINQFFKYLLIFLITMLILVTANNLFQLFIGWEGVGIMSFLLISWWYA
+                     RADANTAAIQAILYNRIGDIGFILALAWFILHSNSWDPQQMALLNANPSLTPLLGLLL
+                     AAAGKSAQLGLHPWLPSAMEGPTPVSALLHSSTMVVAGIFLLIRFHPLAENSPLIQTL
+                     TLCLGAITTLFAAVCALTQNDIKKIVAFSTSSQLGLMMVTIGINQPHLAFLHICTHAF
+                     FKAMLFMCSGSIIHNLNNEQDIRKMGGLLKTMPLTSTSLTIGSLALAGMPFLTGFYSK
+                     DHIIETANMSYTNAWALSITLIATSLTSAYSTRMILLTLTGQPRFPTLTNINENNPTL
+                     LNPIKRLAAGSLFAGFLITNNISPASPFQTTIPLYLKLTALAVTFLGLLTALDLNYLT
+                     NKLKMKSPLCTFYFSNMLGFYPSITHRTIPYLGLLTSQNLPLLLLDLTWLEKLLPKTI
+                     SQHQISTSIITSTQKGMIKLYFLSFFFPLILTLLLIT"
+                     /ConservationIndexes="39, 24 5 17 2 14 13 8 13 7 16 18 32 9 8 36 10 6 38 34 9 7 15 14 3 20 11 12 30 8 11 7 24 31 17 26 29 35 5 8 13 9 10 5 36 17 19 37 28 6 33 21 12 23 33 6 7 10 5 28 35 2 23 30 23 31 37 32 37 5 28 13 27 30 4 6 30 22 23 35 34 37 24 38 27 33 37 22 14 38 11 35 24 36 38 32 31 37 37 36 37 30 35 36 34 14 36 38 38 4 37 37 35 18 37 28 16 38 33 35 34 37 35 12 38 36 30 32 38 21 34 38 30 30 35 37 39 32 33 36 35 37 35 38 38 37 38 35 38 37 37 38 37 34 39 37 9 37 38 21 11 36 10 31 35 38 36 38 38 9 37 37 8 34 36 38 38 34 37 38 31 37 29 29 26 22 8 31 38 32 2 17 14 14 35 24 35 20 5 36 35 12 1 11 22 19 1 21 8 8 13 4 35 35 17 35 33 26 35 37 38 13 36 37 37 37 37 7 36 35 36 36 37 37 37 31 37 37 36 36 37 37 37 37 37 37 37 38 37 37 39 37 36 37 37 37 37 16 36 36 36 33 37 33 19 34 29 4 28 25 4 6 12 19 26 30 19 25 35 34 37 36 36 30 36 36 36 36 10 35 4 36 37 34 36 36 36 37 34 37 39 35 22 37 35 37 37 36 39 37 37 37 37 37 31 33 35 33 36 28 32 34 35 17 35 37 35 33 37 35 34 35 36 37 35 39 37 36 32 36 37 25 35 34 37 34 35 38 36 23 35 35 18 36 37 37 37 37 36 36 37 35 34 11 28 18 27 37 11 37 19 25 19 34 10 32 34 29 35 37 37 5 37 27 37 35 37 27 37 37 34 37 37 37 1 37 38 37 16 25 33 9 36 25 30 37 31 35 36 36 11 19 34 35 22 36 36 34 25 37 8 16 37 37 27 37 11 32 10 9 14 30 11 28 23 34 34 28 21 17 22 13 10 35 36 36 36 32 31 8 33 13 33 21 35 32 36 37 13 3 35 37 9 25 32 37 26 20 31 12 19 28 30 1 39 1 11 2 1 21 6 35 5 35 13 24 26 37 22 22 35 34 7 23 34 3 27 37 12 14 5 35 22 11 30 21 6 17 28 12 12 31 28 11 17 5 23 3 1 12 21 6 36 36 22 15 38 36 14 17 31 4 25 6 35 35 4 11 33 12 13 5 35 14 5 31 34 17 17 4 10 13 34 32 37 20 10 37 27 35 21 8 17 36 33 11 19 22 13 6 28 7 9 5 29 8 5 11 26 11 32 30 35 9 30 37 28 37 32 28 31 34 7 5 10 19 10 25 8 20 18 25 11 6 15"
+                     /FileNameOfProteinRegions="ProteinRegions\ND5.txt"
+
+     gene         14673..14149
+                     /gene="ND6"
+                     /translation="MMYALFLLSVGLVMGFVGFSSKPSPIYGGLVLIVSGVVGCVIIL
+                     NFGGGYMGLMVFLIYLGGMMVVFGYTTAMAIEEYPEAWGSGVEVLVSVLVGLAMEVGL
+                     VLWVKEYDGVVVVVNFNSVGSWMIYEGEGSGLIREDPIGAGALYDYGRWLVVVTGWTL
+                     FVGVYIVIEIARGN"
+                     /ConservationIndexes="47, 11 41 4 12 38 20 41 41 21 2 17 41 17 35 38 33 35 35 34 41 41 44 43 46 39 43 42 42 39 17 47 36 30 39 41 9 32 45 45 3 30 16 31 18 26 43 42 7 10 10 41 44 35 38 45 47 38 45 47 46 47 45 14 47 45 46 41 46 41 35 43 41 43 10 40 25 43 44 43 14 45 22 41 9 13 9 34 32 7 8 8 20 13 40 27 6 24 40 21 11 21 30 20 13 19 8 7 12 20 10 32 13 23 25 9 14 28 19 9 14 35 10 39 10 26 27 16 18 10 18 24 37 15 12 20 36 22 7 11 45 12 10 36 40 45 10 34 41 9 42 30 27 25 38 26 42 45 9 45 27 23 29 29 10 19 21 20 43 28 7 44 39 23 23 33"
+                     /FileNameOfProteinRegions="ProteinRegions\ND6.txt"
+
+     gene            14747..15887
+                     /gene="CYTB"
+                     /translation="MTPMRKTNPLMKLINHSFIDLPTPSNISAWWNFGSLLGACLILQ
+                     ITTGLFLAMHYSPDASTAFSSIAHITRDVNYGWIIRYLHANGASMFFICLFLHIGRGL
+                     YYGSFLYSETWNIGIILLLATMATAFMGYVLPWGQMSFWGATVITNLLSAIPYIGTDL
+                     VQWIWGGYSVDSPTLTRFFTFHFILPFIIAALATLHLLFLHETGSNNPLGITSHSDKI
+                     TFHPYYTIKDALGLLLFLLSLMTLTLFSPDLLGDPDNYTLANPLNTPPHIKPEWYFLF
+                     AYTILRSVPNKLGGVLALLLSILILAMIPILHMSKQQSMMFRPLSQSLYWLLAADLLI
+                     LTWIGGQPVSYPFTIIGQVASVLYFTTILILMPTISLIENKMLKWA"
+                     /ConservationIndexes="39, 35 30 9 7 39 38 19 8 39 36 20 39 8 27 39 21 30 30 35 39 39 39 20 39 38 39 38 39 14 38 39 39 39 39 39 39 39 36 11 38 39 29 19 39 38 6 39 39 38 38 39 38 39 39 38 9 16 38 7 13 33 39 39 38 39 9 16 38 37 10 38 37 38 37 38 39 38 16 37 39 29 29 38 37 39 39 38 39 30 35 39 31 38 33 28 22 39 14 38 39 38 34 39 39 38 39 10 15 11 3 34 39 39 38 37 39 22 27 37 39 15 11 15 39 33 38 39 39 32 39 39 39 39 39 39 39 39 39 39 39 39 38 39 39 39 39 39 39 39 37 38 39 33 39 39 32 39 31 14 38 39 15 39 27 38 39 38 8 36 37 37 7 10 39 39 37 39 39 38 11 31 39 39 33 37 39 39 29 32 13 36 32 18 8 8 39 39 33 39 39 39 38 36 39 39 37 39 39 10 39 29 7 37 6 17 39 39 37 7 39 39 39 39 33 34 28 39 39 3 36 39 16 21 24 6 18 29 2 37 17 16 39 13 38 34 25 39 32 35 39 34 39 39 35 39 33 31 7 38 35 38 38 18 39 39 34 39 39 38 39 39 39 39 39 39 38 38 39 5 39 39 39 39 9 38 38 39 39 39 39 39 35 39 38 11 26 39 38 37 31 39 23 3 25 39 5 37 38 6 36 37 36 11 32 30 29 37 38 39 24 32 39 1 31 9 39 16 38 5 29 29 35 32 10 39 39 39 39 39 33 36 39 39 7 10 39 27 3 22 36 38 39 13 38 38 10 26 39 39 12 12 31 35 19 30 31 37 5 4 20 19 26 38 37 21 14 32 32 33"
+                     /FileNameOfProteinRegions="ProteinRegions\CYTB.txt"
+
+
+
+     tRNA            577..647
+                     /name="F"
+                     /gene="TRNF"
+                     /product="tRNA-Phe"
+                     /note="NAR: 1455"
+                     /anticodon=(pos:611..613,aa:Phe)
+                     /codon_recognized="UUC"
+                     /db_xref="GeneID:4558"
+                     /db_xref="HGNC:7481"
+                     /db_xref="MIM:590070"
+
+     tRNA            1602..1670
+                     /name="V"
+                     /gene="TRNV"
+                     /gene_synonym="MTTV"
+                     /product="tRNA-Val"
+                     /note="NAR: 2053"
+                     /anticodon=(pos:1633..1635,aa:Val)
+                     /codon_recognized="GUA"
+                     /db_xref="GeneID:4577"
+                     /db_xref="HGNC:7500"
+                     /db_xref="MIM:590105"
+
+     tRNA            3230..3304
+                     /name="L(UUA/G)"
+                     /gene="TRNL1"
+                     /gene_synonym="MTTL1"
+                     /product="tRNA-Leu"
+                     /note="NAR: 1054"
+                     /anticodon=(pos:3265..3267,aa:Leu)
+                     /codon_recognized="UUR"
+                     /db_xref="GeneID:4567"
+                     /db_xref="HGNC:7490"
+                     /db_xref="MIM:590050"
+
+     tRNA            4263..4331
+                     /name="I"
+                     /gene="TRNI"
+                     /gene_synonym="MTTI"
+                     /product="tRNA-Ile"
+                     /note="NAR: 0997"
+                     /anticodon=(pos:4292..4294,aa:Ile)
+                     /codon_recognized="AUC"
+                     /db_xref="GeneID:4565"
+                     /db_xref="HGNC:7488"
+                     /db_xref="MIM:590045"
+
+     tRNA            complement(4329..4400)
+                     /name="Q"
+                     /gene="TRNQ"
+                     /gene_synonym="MTTQ"
+                     /product="tRNA-Gln"
+                     /note="NAR: 0597"
+                     /anticodon=(pos:complement(4365..4367),aa:Gln)
+                     /codon_recognized="CAA"
+                     /db_xref="GeneID:4572"
+                     /db_xref="HGNC:7495"
+                     /db_xref="MIM:590030"
+
+     tRNA            4402..4469
+                     /name="M"
+                     /gene="TRNM"
+                     /gene_synonym="MTTM"
+                     /product="tRNA-Met"
+                     /note="NAR: 1297"
+                     /anticodon=(pos:4432..4434,aa:Met)
+                     /codon_recognized="AUG"
+                     /db_xref="GeneID:4569"
+                     /db_xref="HGNC:7492"
+                     /db_xref="MIM:590065"
+
+     tRNA            5512..5579
+                     /name="W"
+                     /gene="TRNW"
+                     /gene_synonym="MTTW"
+                     /product="tRNA-Trp"
+                     /note="NAR: 1897"
+                     /anticodon=(pos:5544..5546,aa:Trp)
+                     /codon_recognized="UGA"
+                     /db_xref="GeneID:4578"
+                     /db_xref="HGNC:7501"
+                     /db_xref="MIM:590095"
+
+     tRNA            complement(5587..5655)
+                     /name="A"
+                     /gene="TRNA"
+                     /gene_synonym="MTTA"
+                     /product="tRNA-Ala"
+                     /note="NAR: 0097"
+                     /anticodon=(pos:complement(5623..5625),aa:Ala)
+                     /codon_recognized="GCA"
+                     /db_xref="GeneID:4553"
+                     /db_xref="HGNC:7475"
+                     /db_xref="MIM:590000"
+
+     tRNA            complement(5657..5729)
+                     /name="N"
+                     /gene="TRNN"
+                     /gene_synonym="MTTN"
+                     /product="tRNA-Asn"
+                     /note="NAR: 0297"
+                     /anticodon=(pos:complement(5694..5696),aa:Asn)
+                     /codon_recognized="AAC"
+                     /db_xref="GeneID:4570"
+                     /db_xref="HGNC:7493"
+                     /db_xref="MIM:590010"
+
+     tRNA            complement(5761..5826)
+                     /name="C"
+                     /gene="TRNC"
+                     /gene_synonym="MTTC"
+                     /product="tRNA-Cys"
+                     /note="NAR: 0497"
+                     /anticodon=(pos:complement(5796..5798),aa:Cys)
+                     /codon_recognized="UGC"
+                     /db_xref="GeneID:4511"
+                     /db_xref="HGNC:7477"
+                     /db_xref="MIM:590020"
+
+     tRNA            complement(5826..5891)
+                     /name="Y"
+                     /gene="TRNY"
+                     /gene_synonym="MTTY"
+                     /product="tRNA-Tyr"
+                     /note="NAR: 1997"
+                     /anticodon=(pos:complement(5860..5862),aa:Tyr)
+                     /codon_recognized="UAC"
+                     /db_xref="GeneID:4579"
+                     /db_xref="HGNC:7502"
+                     /db_xref="MIM:590100"
+
+     tRNA            complement(7446..7514)
+                     /name="S(UCN)"
+                     /gene="TRNS1"
+                     /gene_synonym="MTTS1"
+                     /product="tRNA-Ser"
+                     /note="NAR: 1697"
+                     /anticodon=(pos:complement(7482..7484),aa:Ser)
+                     /codon_recognized="UCN"
+                     /db_xref="GeneID:4574"
+                     /db_xref="HGNC:7497"
+                     /db_xref="MIM:590080"
+
+     tRNA            7518..7585
+                     /name="D"
+                     /gene="TRND"
+                     /gene_synonym="MTTD"
+                     /product="tRNA-Asp"
+                     /note="NAR: 0397"
+                     /anticodon=(pos:7548..7550,aa:Asp)
+                     /codon_recognized="GAC"
+                     /db_xref="GeneID:4555"
+                     /db_xref="HGNC:7478"
+                     /db_xref="MIM:590015"
+
+     tRNA            8295..8364
+                     /name="K"
+                     /gene="TRNK"
+                     /gene_synonym="MTTK"
+                     /product="tRNA-Lys"
+                     /note="NAR: 1197"
+                     /anticodon=(pos:8323..8325,aa:Lys)
+                     /codon_recognized="AAA"
+                     /db_xref="GeneID:4566"
+                     /db_xref="HGNC:7489"
+                     /db_xref="MIM:590060"
+
+     tRNA            9991..10058
+                     /name="G"
+                     /gene="TRNG"
+                     /gene_synonym="MTTG"
+                     /product="tRNA-Gly"
+                     /note="NAR: 0797"
+                     /anticodon=(pos:10021..10023,aa:Gly)
+                     /codon_recognized="GGA"
+                     /db_xref="GeneID:4563"
+                     /db_xref="HGNC:7486"
+                     /db_xref="MIM:590035"
+
+     tRNA            10405..10469
+                     /name="R"
+                     /gene="TRNR"
+                     /gene_synonym="MTTR"
+                     /product="tRNA-Arg"
+                     /note="NAR: 0197"
+                     /anticodon=(pos:10435..10437,aa:Arg)
+                     /codon_recognized="CGA"
+                     /db_xref="GeneID:4573"
+                     /db_xref="HGNC:7496"
+                     /db_xref="MIM:590005"
+
+     tRNA            12138..12206
+                     /name="H"
+                     /gene="TRNH"
+                     /gene_synonym="MTTH"
+                     /product="tRNA-His"
+                     /note="NAR: 0897"
+                     /anticodon=(pos:12168..12170,aa:His)
+                     /codon_recognized="CAC"
+                     /db_xref="GeneID:4564"
+                     /db_xref="HGNC:7487"
+                     /db_xref="MIM:590040"
+
+     tRNA            12207..12265
+                     /name="S(AGY)"
+                     /gene="TRNS2"
+                     /gene_synonym="MTTS2"
+                     /product="tRNA-Ser"
+                     /note="NAR: 1656"
+                     /anticodon=(pos:12226..12228,aa:Ser)
+                     /codon_recognized="AGY"
+                     /db_xref="GeneID:4575"
+                     /db_xref="HGNC:7498"
+                     /db_xref="MIM:590085"
+
+     tRNA            12266..12336
+                     /name="L(CUN)"
+                     /gene="TRNL2"
+                     /gene_synonym="MTTL2"
+                     /product="tRNA-Leu"
+                     /note="NAR: 1097"
+                     /anticodon=(pos:12298..12300,aa:Leu)
+                     /codon_recognized="CUN"
+                     /db_xref="GeneID:4568"
+                     /db_xref="HGNC:7491"
+                     /db_xref="MIM:590055"
+
+     tRNA            complement(14674..14742)
+                     /name="E"
+                     /gene="TRNE"
+                     /gene_synonym="MTTE"
+                     /product="tRNA-Glu"
+                     /note="NAR: 0697"
+                     /anticodon=(pos:complement(14710..14712),aa:Glu)
+                     /codon_recognized="GAA"
+                     /db_xref="GeneID:4556"
+                     /db_xref="HGNC:7479"
+                     /db_xref="MIM:590025"
+
+     tRNA            15888..15953
+                     /name="T"
+                     /gene="TRNT"
+                     /gene_synonym="MTTT"
+                     /product="tRNA-Thr"
+                     /note="NAR: 1797"
+                     /anticodon=(pos:15919..15921,aa:Thr)
+                     /codon_recognized="ACA"
+                     /db_xref="GeneID:4576"
+                     /db_xref="HGNC:7499"
+                     /db_xref="MIM:590090"
+
+     tRNA            complement(15956..16023)
+                     /name="P"
+                     /gene="TRNP"
+                     /gene_synonym="MTTP"
+                     /product="tRNA-Pro"
+                     /note="NAR: 1597"
+                     /anticodon=(pos:complement(15990..15992),aa:Pro)
+                     /codon_recognized="CCA"
+                     /db_xref="GeneID:4571"
+                     /db_xref="HGNC:7494"
+                     /db_xref="MIM:590075"
+
+
+
+      rRNA            648..1601
+                     /name="12S rRNA"
+                     /gene="RNR1"
+                     /gene_synonym="MTRNR1"
+                     /product="12S-rRNA"
+                     /note="12S rRNA; 12S ribosomal RNA"
+                     /db_xref="GeneID:4549"
+                     /db_xref="HGNC:7470"
+                     /db_xref="MIM:561000"
+
+     rRNA            1671..3106, 3108..3229
+                     /name="16S rRNA"
+                     /gene="RNR2"
+                     /gene_synonym="MTRNR2"
+                     /product="16S-rRNA"
+                     /note="16S ribosomal RNA; 16S rRNA"
+                     /db_xref="GeneID:4550"
+                     /db_xref="HGNC:7471"
+                     /db_xref="MIM:561010"
+
+  Functional     1..109, 16106..16569
+                     /name="7S DNA"
+
+  Functional     16157..16172
+                     /name="TAS"
+
+  Functional     16194..16208
+                     /name="mt5"
+
+  Functional      16499..16506
+                     /name="mt3L"
+
+  Functional      110..444
+                     /name="OH"
+
+  Functional      213..235
+                     /name="CSB1'
+
+  Functional      234..260
+                     /name="TFX'
+
+  Functional      276..303
+                     /name="TFY"
+
+  Functional      299..315
+                     /name="CSB2"
+
+  Functional      317..321
+                     /name="replication primer"
+
+  Functional      346..363
+                     /name="CSB3"
+
+  Functional      371..379
+                     /name="mt4H"
+
+  Functional      384..391
+                     /name="mt3H"
+
+  Functional      392..444
+                     /name="PL"
+
+  Functional      418..444,  523..550
+                     /name="mtTF1 binding site"
+
+  Functional      545..567
+                     /name="PH1"
+
+  D-loop          complement(16024..16569,1..576)
+
+

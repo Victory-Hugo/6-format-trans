@@ -1,0 +1,81 @@
+ATP6
+     Region          6..26
+                     /gene="MT-ATP6"
+                     /gene_synonym="ATP6"
+                     /gene_synonym="ATPASE6"
+                     /gene_synonym="MTATP6"
+                     /region_name="Transmembrane region"
+                     /inference="non-experimental evidence, no additional details recorded"
+                     /note="Potential."
+   
+    
+  
+  
+     Region          68..88
+                     /gene="MT-ATP6"
+                     /gene_synonym="ATP6"
+                     /gene_synonym="ATPASE6"
+                     /gene_synonym="MTATP6"
+                     /region_name="Transmembrane region"
+                     /inference="non-experimental evidence, no additional details recorded"
+                     /note="Potential."
+   
+     Region          97..117
+                     /gene="MT-ATP6"
+                     /gene_synonym="ATP6"
+                     /gene_synonym="ATPASE6"
+                     /gene_synonym="MTATP6"
+                     /region_name="Transmembrane region"
+                     /inference="non-experimental evidence, no additional details recorded"
+                     /note="Potential."
+
+    
+    
+     Region          138..158
+                     /gene="MT-ATP6"
+                     /gene_synonym="ATP6"
+                     /gene_synonym="ATPASE6"
+                     /gene_synonym="MTATP6"
+                     /region_name="Transmembrane region"
+                     /inference="non-experimental evidence, no additional details recorded"
+                     /note="Potential."
+   
+     Region          164..184
+                     /gene="MT-ATP6"
+                     /gene_synonym="ATP6"
+                     /gene_synonym="ATPASE6"
+                     /gene_synonym="MTATP6"
+                     /region_name="Transmembrane region"
+                     /inference="non-experimental evidence, no additional details recorded"
+                     /note="Potential."
+     
+     Region          189..209
+                     /gene="MT-ATP6"
+                     /gene_synonym="ATP6"
+                     /gene_synonym="ATPASE6"
+                     /gene_synonym="MTATP6"
+                     /region_name="Transmembrane region"
+                     /inference="non-experimental evidence, no additional  details recorded"
+                     /note="Potential."
+
+     Region          192
+                     /gene="MT-ATP6"
+                     /gene_synonym="ATP6"
+                     /gene_synonym="ATPASE6"
+                     /gene_synonym="MTATP6"
+                     /region_name="Variant"
+                     /experiment="experimental evidence, no additional details recorded"
+                     /note="I -> T (in LHON; possible rate primary mutation).
+                     /FTId=VAR_000795."
+ 
+  
+     Region          217
+                     /gene="MT-ATP6"
+                     /gene_synonym="ATP6"
+                     /gene_synonym="ATPASE6"
+                     /gene_synonym="MTATP6"
+                     /region_name="Variant"
+                     /experiment="experimental evidence, no additional details  recorded"
+                     /note="L -> P (in LS and infantile bilateral striatal  necrosis).
+                     /FTId=VAR_000797."
+   

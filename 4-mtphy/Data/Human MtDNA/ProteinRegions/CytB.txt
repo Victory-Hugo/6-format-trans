@@ -1,0 +1,335 @@
+CytB
+  
+     Site            order(17..18,35,38,197,205)
+                     /gene="MT-CYB"
+                     /gene_synonym="COB"
+                     /gene_synonym="CYTB"
+                     /gene_synonym="MTCYB"
+                     /site_type="other"
+                     /note="Qi binding site"
+                     /db_xref="CDD:29347"
+     Site            order(18..19,23..25,31..32,35..36,39,63,78,81..82,85..86,
+                     88..89,91..92,95,102..107,109..110,113..114,117,120..121,
+                     131,135..141,145..146,154,206)
+                     /gene="MT-CYB"
+                     /gene_synonym="COB"
+                     /gene_synonym="CYTB"
+                     /gene_synonym="MTCYB"
+                     /site_type="other"
+                     /note="intrachain domain interface"
+                     /db_xref="CDD:29347"
+  
+     Site            order(19..20,22,25,46,50,53..54,63..64,67..68,71..75,
+                     77..79,82,108,201..202)
+                     /gene="MT-CYB"
+                     /gene_synonym="COB"
+                     /gene_synonym="CYTB"
+                     /gene_synonym="MTCYB"
+                     /site_type="other"
+                     /note="interchain domain interface"
+                     /db_xref="CDD:29347"
+     Site            order(31,34..35,37..38,90,94,97..98,100,112..113,116..117,
+                     119..120,193,196..197,200,205..206)
+                     /gene="MT-CYB"
+                     /gene_synonym="COB"
+                     /gene_synonym="CYTB"
+                     /gene_synonym="MTCYB"
+                     /site_type="other"
+                     /note="heme bH binding site"
+                     /db_xref="CDD:29347"
+     Region          33..53
+                     /gene="MT-CYB"
+                     /gene_synonym="COB"
+                     /gene_synonym="CYTB"
+                     /gene_synonym="MTCYB"
+                     /region_name="Transmembrane region"
+                     /inference="non-experimental evidence, no additional
+                     details recorded"
+                     /note="Potential."
+     Region          34
+                     /gene="MT-CYB"
+                     /gene_synonym="COB"
+                     /gene_synonym="CYTB"
+                     /gene_synonym="MTCYB"
+                     /region_name="Variant"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="G -> S (in mitochondrial myopathy; sporadic).
+                     /FTId=VAR_013645."
+     Region          35
+                     /gene="MT-CYB"
+                     /gene_synonym="COB"
+                     /gene_synonym="CYTB"
+                     /gene_synonym="MTCYB"
+                     /region_name="Variant"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="S -> P (in exercice intolerance; with cardiomyopathy and septo-optic dysplasia).
+                     /FTId=VAR_033058."
+ 
+     Site            order(41,44..45,48..49,51..52,55,66,80,83..84,87,126..127,
+                     130..131,133..134,182..183,186)
+                     /gene="MT-CYB"
+                     /gene_synonym="COB"
+                     /gene_synonym="CYTB"
+                     /gene_synonym="MTCYB"
+                     /site_type="other"
+                     /note="heme bL binding site"
+                     /db_xref="CDD:29347"
+     Region          76..98
+                     /gene="MT-CYB"
+                     /gene_synonym="COB"
+                     /gene_synonym="CYTB"
+                     /gene_synonym="MTCYB"
+                     /region_name="Transmembrane region"
+                     /inference="non-experimental evidence, no additional
+                     details recorded"
+                     /note="Potential."
+     Site            83
+                     /gene="MT-CYB"
+                     /gene_synonym="COB"
+                     /gene_synonym="CYTB"
+                     /gene_synonym="MTCYB"
+                     /site_type="metal-binding"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Iron 1 (heme b562 axial ligand)."
+     Site            97
+                     /gene="MT-CYB"
+                     /gene_synonym="COB"
+                     /gene_synonym="CYTB"
+                     /gene_synonym="MTCYB"
+                     /site_type="metal-binding"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Iron 2 (heme b566 axial ligand)."
+     Region          115..135
+                     /gene="MT-CYB"
+                     /gene_synonym="COB"
+                     /gene_synonym="CYTB"
+                     /gene_synonym="MTCYB"
+                     /region_name="Transmembrane region"
+                     /inference="non-experimental evidence, no additional
+                     details recorded"
+                     /note="Potential."
+     Site            order(121,124..125,128..129,142,145..146,150,178,181)
+                     /gene="MT-CYB"
+                     /gene_synonym="COB"
+                     /gene_synonym="CYTB"
+                     /gene_synonym="MTCYB"
+                     /site_type="other"
+                     /note="Qo binding site"
+                     /db_xref="CDD:29347"
+  
+     Region          138..158
+                     /gene="MT-CYB"
+                     /gene_synonym="COB"
+                     /gene_synonym="CYTB"
+                     /gene_synonym="MTCYB"
+                     /region_name="Transmembrane region"
+                     /inference="non-experimental evidence, no additional
+                     details recorded"
+                     /note="Potential."
+  
+     Region          171
+                     /gene="MT-CYB"
+                     /gene_synonym="COB"
+                     /gene_synonym="CYTB"
+                     /gene_synonym="MTCYB"
+                     /region_name="Variant"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="D -> N (in LHON; secondary mutation; does not seem to directly cause the disease). 
+                     /FTId=VAR_002197."
+     Region          178..198
+                     /gene="MT-CYB"
+                     /gene_synonym="COB"
+                     /gene_synonym="CYTB"
+                     /gene_synonym="MTCYB"
+                     /region_name="Transmembrane region"
+                     /inference="non-experimental evidence, no additional
+                     details recorded"
+                     /note="Potential."
+     Site            182
+                     /gene="MT-CYB"
+                     /gene_synonym="COB"
+                     /gene_synonym="CYTB"
+                     /gene_synonym="MTCYB"
+                     /site_type="metal-binding"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Iron 1 (heme b562 axial ligand)."
+   
+       Site            196
+                     /gene="MT-CYB"
+                     /gene_synonym="COB"
+                     /gene_synonym="CYTB"
+                     /gene_synonym="MTCYB"
+                     /site_type="metal-binding"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Iron 2 (heme b566 axial ligand)."
+     
+     Site            order(207..209,211..219,222..224,226..227,230,233..234,
+                     237,240..241,244..245,247,253,256..257,311..312,317..318)
+                     /gene="MT-CYB"
+                     /gene_synonym="COB"
+                     /gene_synonym="CYTB"
+                     /gene_synonym="MTCYB"
+                     /site_type="other"
+                     /note="interchain domain interface"
+                     /db_xref="CDD:29371"
+     Site            order(207..208,213,216..218,220,224,227..228,231..232,235,
+                     239..240,242..244,247,252,254..255,257..261,263..265,268,
+                     270..273,288,298,301..302,304..306,308)
+                     /gene="MT-CYB"
+                     /gene_synonym="COB"
+                     /gene_synonym="CYTB"
+                     /gene_synonym="MTCYB"
+                     /site_type="other"
+                     /note="intrachain domain interface"
+                     /db_xref="CDD:29371"
+     Site            order(220,228)
+                     /gene="MT-CYB"
+                     /gene_synonym="COB"
+                     /gene_synonym="CYTB"
+                     /gene_synonym="MTCYB"
+                     /site_type="other"
+                     /note="Qi binding site"
+                     /db_xref="CDD:29371"
+  
+     Region          230..250
+                     /gene="MT-CYB"
+                     /gene_synonym="COB"
+                     /gene_synonym="CYTB"
+                     /gene_synonym="MTCYB"
+                     /region_name="Transmembrane region"
+                     /inference="non-experimental evidence, no additional
+                     details recorded"
+                     /note="Potential."
+       Region          251..258
+                     /gene="MT-CYB"
+                     /gene_synonym="COB"
+                     /gene_synonym="CYTB"
+                     /gene_synonym="MTCYB"
+                     /region_name="Variant"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Missing (in mitochondrial myopathy; sporadic).
+                     /FTId=VAR_013657."
+       Region          251
+                     /gene="MT-CYB"
+                     /gene_synonym="COB"
+                     /gene_synonym="CYTB"
+                     /gene_synonym="MTCYB"
+                     /region_name="Variant"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="G -> S (associated with susceptibility to obesity).
+                     /FTId=VAR_033059."
+     Region          255
+                     /gene="MT-CYB"
+                     /gene_synonym="COB"
+                     /gene_synonym="CYTB"
+                     /gene_synonym="MTCYB"
+                     /region_name="Variant"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="N -> H (in cardiomyopathy; fatal; post- partum).
+                     /FTId=VAR_013658."
+       Site            order(268,270..271,274,277..278,294)
+                     /gene="MT-CYB"
+                     /gene_synonym="COB"
+                     /gene_synonym="CYTB"
+                     /gene_synonym="MTCYB"
+                     /site_type="other"
+                     /note="Qo binding site"
+                     /db_xref="CDD:29371"
+     Region          276
+                     /gene="MT-CYB"
+                     /gene_synonym="COB"
+                     /gene_synonym="CYTB"
+                     /gene_synonym="MTCYB"
+                     /region_name="Variant"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="F -> L (in colorectal cancer). /FTId=VAR_008389."
+     Region          278
+                     /gene="MT-CYB"
+                     /gene_synonym="COB"
+                     /gene_synonym="CYTB"
+                     /gene_synonym="MTCYB"
+                     /region_name="Variant"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Y -> C (in multisystem disorder).
+                     /FTId=VAR_013659."
+     Region          288..308
+                     /gene="MT-CYB"
+                     /gene_synonym="COB"
+                     /gene_synonym="CYTB"
+                     /gene_synonym="MTCYB"
+                     /region_name="Transmembrane region"
+                     /inference="non-experimental evidence, no additional
+                     details recorded"
+                     /note="Potential."
+     Region          290
+                     /gene="MT-CYB"
+                     /gene_synonym="COB"
+                     /gene_synonym="CYTB"
+                     /gene_synonym="MTCYB"
+                     /region_name="Variant"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="G -> D (in exercise intolerance).
+                     /FTId=VAR_013660."
+ 
+     Region          323..343
+                     /gene="MT-CYB"
+                     /gene_synonym="COB"
+                     /gene_synonym="CYTB"
+                     /gene_synonym="MTCYB"
+                     /region_name="Transmembrane region"
+                     /inference="non-experimental evidence, no additional
+                     details recorded"
+                     /note="Potential."
+     Region          329
+                     /gene="MT-CYB"
+                     /gene_synonym="COB"
+                     /gene_synonym="CYTB"
+                     /gene_synonym="MTCYB"
+                     /region_name="Variant"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="A -> T. /FTId=VAR_013663."
+        Region          339
+                     /gene="MT-CYB"
+                     /gene_synonym="COB"
+                     /gene_synonym="CYTB"
+                     /gene_synonym="MTCYB"
+                     /region_name="Variant"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="G -> E (in mitochondrial myopathy).
+                     /FTId=VAR_002198."
+     Region          349..369
+                     /gene="MT-CYB"
+                     /gene_synonym="COB"
+                     /gene_synonym="CYTB"
+                     /gene_synonym="MTCYB"
+                     /region_name="Transmembrane region"
+                     /inference="non-experimental evidence, no additional
+                     details recorded"
+                     /note="Potential."
+   
+     Region          356
+                     /gene="MT-CYB"
+                     /gene_synonym="COB"
+                     /gene_synonym="CYTB"
+                     /gene_synonym="MTCYB"
+                     /region_name="Variant"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="V -> M (in LHON; secondary mutation; does not seem to directly cause the disease). 
+                    /FTId=VAR_002199."
+  

@@ -1,0 +1,140 @@
+ND4
+     Region          1..93
+                     /gene="MT-ND4"
+                     /gene_synonym="MTND4"
+                     /gene_synonym="NADH4"
+                     /gene_synonym="ND4"
+                     /region_name="Oxidored_q5_N"
+                     /note="NADH-ubiquinone oxidoreductase chain 4, amino  terminus; pfam01059"
+                     /db_xref="CDD:110086"
+     Region          22..42
+                     /gene="MT-ND4"
+                     /gene_synonym="MTND4"
+                     /gene_synonym="NADH4"
+                     /gene_synonym="ND4"
+                     /region_name="Transmembrane region"
+                     /inference="non-experimental evidence, no additional
+                     details recorded"
+                     /note="Potential."
+     Region          60..80
+                     /gene="MT-ND4"
+                     /gene_synonym="MTND4"
+                     /gene_synonym="NADH4"
+                     /gene_synonym="ND4"
+                     /region_name="Transmembrane region"
+                     /inference="non-experimental evidence, no additional
+                     details recorded"
+                     /note="Potential."
+        Region          102..122
+                     /gene="MT-ND4"
+                     /gene_synonym="MTND4"
+                     /gene_synonym="NADH4"
+                     /gene_synonym="ND4"
+                     /region_name="Transmembrane region"
+                     /inference="non-experimental evidence, no additional
+                     details recorded"
+                     /note="Potential."
+    
+     Region          112..382
+                     /gene="MT-ND4"
+                     /gene_synonym="MTND4"
+                     /gene_synonym="NADH4"
+                     /gene_synonym="ND4"
+                     /region_name="Oxidored_q1"
+                     /note="NADH-Ubiquinone/plastoquinone (complex I), various chains; cl02850"
+                     /db_xref="CDD:121596"
+ 
+     Region          145..165
+                     /gene="MT-ND4"
+                     /gene_synonym="MTND4"
+                     /gene_synonym="NADH4"
+                     /gene_synonym="ND4"
+                     /region_name="Transmembrane region"
+                     /inference="non-experimental evidence, no additional
+                     details recorded"
+                     /note="Potential."
+     Region          196..216
+                     /gene="MT-ND4"
+                     /gene_synonym="MTND4"
+                     /gene_synonym="NADH4"
+                     /gene_synonym="ND4"
+                     /region_name="Transmembrane region"
+                     /inference="non-experimental evidence, no additional
+                     details recorded"
+                     /note="Potential."
+     Region          224..244
+                     /gene="MT-ND4"
+                     /gene_synonym="MTND4"
+                     /gene_synonym="NADH4"
+                     /gene_synonym="ND4"
+                     /region_name="Transmembrane region"
+                     /inference="non-experimental evidence, no additional
+                     details recorded"
+                     /note="Potential."
+  
+     Region          257..277
+                     /gene="MT-ND4"
+                     /gene_synonym="MTND4"
+                     /gene_synonym="NADH4"
+                     /gene_synonym="ND4"
+                     /region_name="Transmembrane region"
+                     /inference="non-experimental evidence, no additional
+                     details recorded"
+                     /note="Potential."
+     Region          284..303
+                     /gene="MT-ND4"
+                     /gene_synonym="MTND4"
+                     /gene_synonym="NADH4"
+                     /gene_synonym="ND4"
+                     /region_name="Transmembrane region"
+                     /inference="non-experimental evidence, no additional
+                     details recorded"
+                     /note="Potential."
+ 
+     Region          308..330
+                     /gene="MT-ND4"
+                     /gene_synonym="MTND4"
+                     /gene_synonym="NADH4"
+                     /gene_synonym="ND4"
+                     /region_name="Transmembrane region"
+                     /inference="non-experimental evidence, no additional
+                     details recorded"
+                     /note="Potential."
+     Region          313
+                     /gene="MT-ND4"
+                     /gene_synonym="MTND4"
+                     /gene_synonym="NADH4"
+                     /gene_synonym="ND4"
+                     /region_name="Variant"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="V -> I (in LDYT; possible rare primary mutation).
+                     /FTId=VAR_008393."
+     Region          340
+                     /gene="MT-ND4"
+                     /gene_synonym="MTND4"
+                     /gene_synonym="NADH4"
+                     /gene_synonym="ND4"
+                     /region_name="Variant"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="R -> H (in LHON; primary mutation; almost no vision recovery; most frequent mutation; seems to have no effect on electron transfer activity of the complex in inner  mitochondrial membrane preparations). 
+                    /FTId=VAR_004760."
+     Region          351..371
+                     /gene="MT-ND4"
+                     /gene_synonym="MTND4"
+                     /gene_synonym="NADH4"
+                     /gene_synonym="ND4"
+                     /region_name="Transmembrane region"
+                     /inference="non-experimental evidence, no additional
+                     details recorded"
+                     /note="Potential."
+     Region          391..411
+                     /gene="MT-ND4"
+                     /gene_synonym="MTND4"
+                     /gene_synonym="NADH4"
+                     /gene_synonym="ND4"
+                     /region_name="Transmembrane region"
+                     /inference="non-experimental evidence, no additional
+                     details recorded"
+                     /note="Potential."

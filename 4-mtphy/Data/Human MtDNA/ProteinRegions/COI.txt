@@ -1,0 +1,497 @@
+COI
+     Region          1..19
+                     /gene="MT-CO1"
+                     /gene_synonym="COI"
+                     /gene_synonym="COXI"
+                     /gene_synonym="MTCO1"
+                     /region_name="Topological domain"
+                     /inference="non-experimental evidence, no additional
+                     details recorded"
+                     /note="Mitochondrial matrix (Potential)."
+
+     Site            order(10,90,94,96,103,144,148,166,170,190,197,200,208,
+                     217..219,224..225,227,237,275,278,281..282,286)
+                     /gene="MT-CO1"
+                     /gene_synonym="COI"
+                     /gene_synonym="COXI"
+                     /gene_synonym="MTCO1"
+                     /site_type="other"
+                     /note="Subunit I/III interface"
+                     /db_xref="CDD:29934"
+     
+     Site            order(19,80,91,98,101,156..157,163,167)
+                     /gene="MT-CO1"
+                     /gene_synonym="COI"
+                     /gene_synonym="COXI"
+                     /gene_synonym="MTCO1"
+                     /site_type="other"
+                     /note="D-pathway"
+                     /db_xref="CDD:29934"
+     Region          20..42
+                     /gene="MT-CO1"
+                     /gene_synonym="COI"
+                     /gene_synonym="COXI"
+                     /gene_synonym="MTCO1"
+                     /region_name="Transmembrane region"
+                     /inference="non-experimental evidence, no additional
+                     details recorded"
+                     /note="1 (Potential)."
+     Site            order(25,29,32,36,116..117,400,473,476)
+                     /gene="MT-CO1"
+                     /gene_synonym="COI"
+                     /gene_synonym="COXI"
+                     /gene_synonym="MTCO1"
+                     /site_type="other"
+                     /note="Subunit I/VIIc interface"
+                     /db_xref="CDD:29934"
+
+     Site            order(39,42..43,408,411..412,445,463)
+                     /gene="MT-CO1"
+                     /gene_synonym="COI"
+                     /gene_synonym="COXI"
+                     /gene_synonym="MTCO1"
+                     /site_type="other"
+                     /note="Subunit I/IV interface"
+                     /db_xref="CDD:29934"
+
+     Region          43..56
+                     /gene="MT-CO1"
+                     /gene_synonym="COI"
+                     /gene_synonym="COXI"
+                     /gene_synonym="MTCO1"
+                     /region_name="Topological domain"
+                     /inference="non-experimental evidence, no additional
+                     details recorded"
+                     /note="Mitochondrial intermembrane (Potential)."
+
+     Site            order(55,227,265,268..269,294..296,299,302,310,318,321,
+                     328..330,342,360..361,363,365..369,433..434,438..440,
+                     449..450)
+                     /gene="MT-CO1"
+                     /gene_synonym="COI"
+                     /gene_synonym="COXI"
+                     /gene_synonym="MTCO1"
+                     /site_type="other"
+                     /note="Subunit I/II interface"
+                     /db_xref="CDD:29934"
+
+     Region          57..79
+                     /gene="MT-CO1"
+                     /gene_synonym="COI"
+                     /gene_synonym="COXI"
+                     /gene_synonym="MTCO1"
+                     /region_name="Transmembrane region"
+                     /inference="non-experimental evidence, no additional
+                     details recorded"
+                     /note="2 (Potential)."
+     Site            order(61,378,382,424,461)
+                     /gene="MT-CO1"
+                     /gene_synonym="COI"
+                     /gene_synonym="COXI"
+                     /gene_synonym="MTCO1"
+                     /site_type="other"
+                     /note="Low-spin heme (heme a) binding site"
+                     /db_xref="CDD:29934"
+     Site            61
+                     /gene="MT-CO1"
+                     /gene_synonym="COI"
+                     /gene_synonym="COXI"
+                     /gene_synonym="MTCO1"
+                     /site_type="metal-binding"
+                     /inference="non-experimental evidence, no additional
+                     details recorded"
+                     /note="Iron (heme A axial ligand) (Probable)."
+     Region          80..99
+                     /gene="MT-CO1"
+                     /gene_synonym="COI"
+                     /gene_synonym="COXI"
+                     /gene_synonym="MTCO1"
+                     /region_name="Topological domain"
+                     /inference="non-experimental evidence, no additional
+                     details recorded"
+                     /note="Mitochondrial matrix (Potential)."
+   
+     Region          100..122
+                     /gene="MT-CO1"
+                     /gene_synonym="COI"
+                     /gene_synonym="COXI"
+                     /gene_synonym="MTCO1"
+                     /region_name="Transmembrane region"
+                     /inference="non-experimental evidence, no additional
+                     details recorded"
+                     /note="3 (Potential)."
+     Site            order(114,117)
+                     /gene="MT-CO1"
+                     /gene_synonym="COI"
+                     /gene_synonym="COXI"
+                     /gene_synonym="MTCO1"
+                     /site_type="other"
+                     /note="Subunit I/VIIa interface"
+                     /db_xref="CDD:29934"
+     Region          123..146
+                     /gene="MT-CO1"
+                     /gene_synonym="COI"
+                     /gene_synonym="COXI"
+                     /gene_synonym="MTCO1"
+                     /region_name="Topological domain"
+                     /inference="non-experimental evidence, no additional
+                     details recorded"
+                     /note="Mitochondrial intermembrane (Potential)."
+     Site            order(135,213..216)
+                     /gene="MT-CO1"
+                     /gene_synonym="COI"
+                     /gene_synonym="COXI"
+                     /gene_synonym="MTCO1"
+                     /site_type="other"
+                     /note="Subunit I/VIa interface"
+                     /db_xref="CDD:29934"
+     Region          142
+                     /gene="MT-CO1"
+                     /gene_synonym="COI"
+                     /gene_synonym="COXI"
+                     /gene_synonym="MTCO1"
+                     /region_name="Variant"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="S -> F (in COX deficiency; significant decrease in enzyme activity). 
+                     /FTId=VAR_033055."
+     Region          147..169
+                     /gene="MT-CO1"
+                     /gene_synonym="COI"
+                     /gene_synonym="COXI"
+                     /gene_synonym="MTCO1"
+                     /region_name="Transmembrane region"
+                     /inference="non-experimental evidence, no additional
+                     details recorded"
+                     /note="4 (Potential)."
+     
+     Region          170..181
+                     /gene="MT-CO1"
+                     /gene_synonym="COI"
+                     /gene_synonym="COXI"
+                     /gene_synonym="MTCO1"
+                     /region_name="Topological domain"
+                     /inference="non-experimental evidence, no additional
+                     details recorded"
+                     /note="Mitochondrial matrix (Potential)."
+     Region          182..204
+                     /gene="MT-CO1"
+                     /gene_synonym="COI"
+                     /gene_synonym="COXI"
+                     /gene_synonym="MTCO1"
+                     /region_name="Transmembrane region"
+                     /inference="non-experimental evidence, no additional
+                     details recorded"
+                     /note="5 (Potential)."
+     Site            order(190,197,237,275,278,281..282,286)
+                     /gene="MT-CO1"
+                     /gene_synonym="COI"
+                     /gene_synonym="COXI"
+                     /gene_synonym="MTCO1"
+                     /site_type="other"
+                     /note="Dimer interface"
+                     /db_xref="CDD:29934"
+     Region          196
+                     /gene="MT-CO1"
+                     /gene_synonym="COI"
+                     /gene_synonym="COXI"
+                     /gene_synonym="MTCO1"
+                     /region_name="Variant"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="L -> I (in COX deficiency). 
+                     /FTId=VAR_033056."
+     Region          205..235
+                     /gene="MT-CO1"
+                     /gene_synonym="COI"
+                     /gene_synonym="COXI"
+                     /gene_synonym="MTCO1"
+                     /region_name="Topological domain"
+                     /inference="non-experimental evidence, no additional
+                     details recorded"
+                     /note="Mitochondrial intermembrane (Potential)."
+    
+     Site            order(227,232..233,364,368..369,438)
+                     /gene="MT-CO1"
+                     /gene_synonym="COI"
+                     /gene_synonym="COXI"
+                     /gene_synonym="MTCO1"
+                     /site_type="other"
+                     /note="Putative water exit pathway"
+                     /db_xref="CDD:29934"
+  
+     Region          236..258
+                     /gene="MT-CO1"
+                     /gene_synonym="COI"
+                     /gene_synonym="COXI"
+                     /gene_synonym="MTCO1"
+                     /region_name="Transmembrane region"
+                     /inference="non-experimental evidence, no additional
+                     details recorded"
+                     /note="6 (Potential)."
+     Site            order(240,290..291,376)
+                     /gene="MT-CO1"
+                     /gene_synonym="COI"
+                     /gene_synonym="COXI"
+                     /gene_synonym="MTCO1"
+                     /site_type="other"
+                     /note="Binuclear center (heme a3/CuB)"
+                     /db_xref="CDD:29934"
+     Site            order(240,244,255,290..291,316,319)
+                     /gene="MT-CO1"
+                     /gene_synonym="COI"
+                     /gene_synonym="COXI"
+                     /gene_synonym="MTCO1"
+                     /site_type="other"
+                     /note="K-pathway"
+                     /db_xref="CDD:29934"
+     Bond            bond(240,244)
+                     /gene="MT-CO1"
+                     /gene_synonym="COI"
+                     /gene_synonym="COXI"
+                     /gene_synonym="MTCO1"
+                     /bond_type="xlink"
+                     /inference="non-experimental evidence, no additional
+                     details recorded"
+                     /note="1'-histidyl-3'-tyrosine (His-Tyr) (By similarity)."
+     Site            240
+                     /gene="MT-CO1"
+                     /gene_synonym="COI"
+                     /gene_synonym="COXI"
+                     /gene_synonym="MTCO1"
+                     /site_type="metal-binding"
+                     /inference="non-experimental evidence, no additional
+                     details recorded"
+                     /note="Copper B (Probable)."
+     Site            244
+                     /gene="MT-CO1"
+                     /gene_synonym="COI"
+                     /gene_synonym="COXI"
+                     /gene_synonym="MTCO1"
+                     /site_type="metal-binding"
+                     /inference="non-experimental evidence, no additional
+                     details recorded"
+                     /note="Copper B (Probable)."
+     Region          259..270
+                     /gene="MT-CO1"
+                     /gene_synonym="COI"
+                     /gene_synonym="COXI"
+                     /gene_synonym="MTCO1"
+                     /region_name="Topological domain"
+                     /inference="non-experimental evidence, no additional
+                     details recorded"
+                     /note="Mitochondrial matrix (Potential)."
+     Site            order(266,270,495)
+                     /gene="MT-CO1"
+                     /gene_synonym="COI"
+                     /gene_synonym="COXI"
+                     /gene_synonym="MTCO1"
+                     /site_type="other"
+                     /note="Subunit I/Vb interface"
+                     /db_xref="CDD:29934"
+     Region          271..293
+                     /gene="MT-CO1"
+                     /gene_synonym="COI"
+                     /gene_synonym="COXI"
+                     /gene_synonym="MTCO1"
+                     /region_name="Transmembrane region"
+                     /inference="non-experimental evidence, no additional
+                     details recorded"
+                     /note="7 (Potential)."
+
+
+     Site            290
+                     /gene="MT-CO1"
+                     /gene_synonym="COI"
+                     /gene_synonym="COXI"
+                     /gene_synonym="MTCO1"
+                     /site_type="metal-binding"
+                     /inference="non-experimental evidence, no additional
+                     details recorded"
+                     /note="Copper B (Probable)."
+     Site            order(291,368..369,438..439)
+                     /gene="MT-CO1"
+                     /gene_synonym="COI"
+                     /gene_synonym="COXI"
+                     /gene_synonym="MTCO1"
+                     /site_type="other"
+                     /note="Putative proton exit pathway"
+                     /db_xref="CDD:29934"
+     Site            291
+                     /gene="MT-CO1"
+                     /gene_synonym="COI"
+                     /gene_synonym="COXI"
+                     /gene_synonym="MTCO1"
+                     /site_type="metal-binding"
+                     /inference="non-experimental evidence, no additional
+                     details recorded"
+                     /note="Copper B (Probable)."
+     Region          294..302
+                     /gene="MT-CO1"
+                     /gene_synonym="COI"
+                     /gene_synonym="COXI"
+                     /gene_synonym="MTCO1"
+                     /region_name="Topological domain"
+                     /inference="non-experimental evidence, no additional
+                     details recorded"
+                     /note="Mitochondrial intermembrane (Potential)."
+     Site            296
+                     /gene="MT-CO1"
+                     /gene_synonym="COI"
+                     /gene_synonym="COXI"
+                     /gene_synonym="MTCO1"
+                     /site_type="other"
+                     /note="Subunit I/VIb interface"
+                     /db_xref="CDD:29934"
+     Region          303..325
+                     /gene="MT-CO1"
+                     /gene_synonym="COI"
+                     /gene_synonym="COXI"
+                     /gene_synonym="MTCO1"
+                     /region_name="Transmembrane region"
+                     /inference="non-experimental evidence, no additional
+                     details recorded"
+                     /note="8 (Potential)."
+
+     Region          326..336
+                     /gene="MT-CO1"
+                     /gene_synonym="COI"
+                     /gene_synonym="COXI"
+                     /gene_synonym="MTCO1"
+                     /region_name="Topological domain"
+                     /inference="non-experimental evidence, no additional
+                     details recorded"
+                     /note="Mitochondrial matrix (Potential)."
+     Site            329
+                     /gene="MT-CO1"
+                     /gene_synonym="COI"
+                     /gene_synonym="COXI"
+                     /gene_synonym="MTCO1"
+                     /site_type="other"
+                     /note="Subunit I/VIc interface"
+                     /db_xref="CDD:29934"
+     Region          337..359
+                     /gene="MT-CO1"
+                     /gene_synonym="COI"
+                     /gene_synonym="COXI"
+                     /gene_synonym="MTCO1"
+                     /region_name="Transmembrane region"
+                     /inference="non-experimental evidence, no additional
+                     details recorded"
+                     /note="9 (Potential)."
+     Region          360..373
+                     /gene="MT-CO1"
+                     /gene_synonym="COI"
+                     /gene_synonym="COXI"
+                     /gene_synonym="MTCO1"
+                     /region_name="Topological domain"
+                     /inference="non-experimental evidence, no additional
+                     details recorded"
+                     /note="Mitochondrial intermembrane (Potential)."
+     Region          374..396
+                     /gene="MT-CO1"
+                     /gene_synonym="COI"
+                     /gene_synonym="COXI"
+                     /gene_synonym="MTCO1"
+                     /region_name="Transmembrane region"
+                     /inference="non-experimental evidence, no additional
+                     details recorded"
+                     /note="10 (Potential)."
+     Site            376
+                     /gene="MT-CO1"
+                     /gene_synonym="COI"
+                     /gene_synonym="COXI"
+                     /gene_synonym="MTCO1"
+                     /site_type="metal-binding"
+                     /inference="non-experimental evidence, no additional
+                     details recorded"
+                     /note="Iron (heme A3 axial ligand) (Probable)."
+     Site            order(377,438..439)
+                     /gene="MT-CO1"
+                     /gene_synonym="COI"
+                     /gene_synonym="COXI"
+                     /gene_synonym="MTCO1"
+                     /site_type="other"
+                     /note="Electron transfer pathway"
+                     /db_xref="CDD:29934"
+     Site            378
+                     /gene="MT-CO1"
+                     /gene_synonym="COI"
+                     /gene_synonym="COXI"
+                     /gene_synonym="MTCO1"
+                     /site_type="metal-binding"
+                     /inference="non-experimental evidence, no additional
+                     details recorded"
+                     /note="Iron (heme A axial ligand) (Probable)."
+     Region          397..408
+                     /gene="MT-CO1"
+                     /gene_synonym="COI"
+                     /gene_synonym="COXI"
+                     /gene_synonym="MTCO1"
+                     /region_name="Topological domain"
+                     /inference="non-experimental evidence, no additional
+                     details recorded"
+                     /note="Mitochondrial matrix (Potential)."
+     Site            order(409,466)
+                     /gene="MT-CO1"
+                     /gene_synonym="COI"
+                     /gene_synonym="COXI"
+                     /gene_synonym="MTCO1"
+                     /site_type="other"
+                     /note="Subunit I/VIIIb interface"
+                     /db_xref="CDD:29934"
+     Region          409..431
+                     /gene="MT-CO1"
+                     /gene_synonym="COI"
+                     /gene_synonym="COXI"
+                     /gene_synonym="MTCO1"
+                     /region_name="Transmembrane region"
+                     /inference="non-experimental evidence, no additional
+                     details recorded"
+                     /note="11 (Potential)."
+
+     Region          432..450
+                     /gene="MT-CO1"
+                     /gene_synonym="COI"
+                     /gene_synonym="COXI"
+                     /gene_synonym="MTCO1"
+                     /region_name="Topological domain"
+                     /inference="non-experimental evidence, no additional
+                     details recorded"
+                     /note="Mitochondrial intermembrane (Potential)."
+     Site            order(445,449)
+                     /gene="MT-CO1"
+                     /gene_synonym="COI"
+                     /gene_synonym="COXI"
+                     /gene_synonym="MTCO1"
+                     /site_type="other"
+                     /note="Subunit I/VIIb interface"
+                     /db_xref="CDD:29934"
+     Region          451..473
+                     /gene="MT-CO1"
+                     /gene_synonym="COI"
+                     /gene_synonym="COXI"
+                     /gene_synonym="MTCO1"
+                     /region_name="Transmembrane region"
+                     /inference="non-experimental evidence, no additional
+                     details recorded"
+                     /note="12 (Potential)."
+     Region          474..513
+                     /gene="MT-CO1"
+                     /gene_synonym="COI"
+                     /gene_synonym="COXI"
+                     /gene_synonym="MTCO1"
+                     /region_name="Topological domain"
+                     /inference="non-experimental evidence, no additional
+                     details recorded"
+                     /note="Mitochondrial matrix (Potential)."
+     Region          513
+                     /gene="MT-CO1"
+                     /gene_synonym="COI"
+                     /gene_synonym="COXI"
+                     /gene_synonym="MTCO1"
+                     /region_name="Variant"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="S -> SKQK (in LHON; secondary mutation; does not  seem to directly cause the disease). 
+                    /FTId=VAR_008387."

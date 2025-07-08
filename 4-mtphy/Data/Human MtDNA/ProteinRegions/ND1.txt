@@ -1,0 +1,109 @@
+ND1
+     Region          2..22
+                     /gene="MT-ND1"
+                     /gene_synonym="MTND1"
+                     /gene_synonym="NADH1"
+                     /gene_synonym="ND1"
+                     /region_name="Transmembrane region"
+                     /inference="non-experimental evidence, no additional  details recorded"
+                     /note="Potential."
+    
+     Region          30
+                     /gene="MT-ND1"
+                     /gene_synonym="MTND1"
+                     /gene_synonym="NADH1"
+                     /gene_synonym="ND1"
+                     /region_name="Variant"
+                     /experiment="experimental evidence, no additional details recorded"
+                     /note="Y -> H (in LHON; secondary mutation; does not seem to directly cause the disease). /FTId=VAR_004748."
+   
+     Region          52
+                     /gene="MT-ND1"
+                     /gene_synonym="MTND1"
+                     /gene_synonym="NADH1"
+                     /gene_synonym="ND1"
+                     /region_name="Variant"
+                     /experiment="experimental evidence, no additional details recorded"
+                     /note="A -> T (in LHON; primary mutation; medium severity;  some vision recovery; 80% reduction in rotenone-sensitive and ubiquinone-dependent electron transfer activity, whereas the proximal NADH dehydrogenase ctivity of the complex is unaffected). 
+                    /FTId=VAR_004751."
+     Region          68..88
+                     /gene="MT-ND1"
+                     /gene_synonym="MTND1"
+                     /gene_synonym="NADH1"
+                     /gene_synonym="ND1"
+                     /region_name="Transmembrane region"
+                     /inference="non-experimental evidence, no additional details recorded"
+                     /note="Potential."
+  
+     Region          100..120
+                     /gene="MT-ND1"
+                     /gene_synonym="MTND1"
+                     /gene_synonym="NADH1"
+                     /gene_synonym="ND1"
+                     /region_name="Transmembrane region"
+                     /inference="non-experimental evidence, no additional details recorded"
+                     /note="Potential."
+
+     Region          146..166
+                     /gene="MT-ND1"
+                     /gene_synonym="MTND1"
+                     /gene_synonym="NADH1"
+                     /gene_synonym="ND1"
+                     /region_name="Transmembrane region"
+                     /inference="non-experimental evidence, no additional details recorded"
+                     /note="Potential."
+     
+     Region          171..191
+                     /gene="MT-ND1"
+                     /gene_synonym="MTND1"
+                     /gene_synonym="NADH1"
+                     /gene_synonym="ND1"
+                     /region_name="Transmembrane region"
+                     /inference="non-experimental evidence, no additional details recorded"
+                     /note="Potential."
+   
+     Region          231..251
+                     /gene="MT-ND1"
+                     /gene_synonym="MTND1"
+                     /gene_synonym="NADH1"
+                     /gene_synonym="ND1"
+                     /region_name="Transmembrane region"
+                     /inference="non-experimental evidence, no additional details recorded"
+                     /note="Potential."
+     Region          253..273
+                     /gene="MT-ND1"
+                     /gene_synonym="MTND1"
+                     /gene_synonym="NADH1"
+                     /gene_synonym="ND1"
+                     /region_name="Transmembrane region"
+                     /inference="non-experimental evidence, no additional details recorded"
+                     /note="Potential."
+  
+     Region          285
+                     /gene="MT-ND1"
+                     /gene_synonym="MTND1"
+                     /gene_synonym="NADH1"
+                     /gene_synonym="ND1"
+                     /region_name="Variant"
+                     /experiment="experimental evidence, no additional details recorded"
+                     /note="L -> P (in LHON; secondary mutation; does not seem  to directly cause the disease). 
+                     /FTId=VAR_004753."
+   
+     Region          294..314
+                     /gene="MT-ND1"
+                     /gene_synonym="MTND1"
+                     /gene_synonym="NADH1"
+                     /gene_synonym="ND1"
+                     /region_name="Transmembrane region"
+                     /inference="non-experimental evidence, no additional details recorded"
+                     /note="Potential."
+
+     Region          304
+                     /gene="MT-ND1"
+                     /gene_synonym="MTND1"
+                     /gene_synonym="NADH1"
+                     /gene_synonym="ND1"
+                     /region_name="Variant"
+                     /experiment="experimental evidence, no additional details recorded"
+                     /note="Y -> H (in LHON; secondary mutation; does not seem to directly cause the disease). 
+                     /FTId=VAR_004754."

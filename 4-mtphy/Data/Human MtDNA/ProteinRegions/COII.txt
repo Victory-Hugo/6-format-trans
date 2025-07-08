@@ -1,0 +1,115 @@
+COII
+
+     Region          1..83
+                     /gene="MT-CO2"
+                     /gene_synonym="COII"
+                     /gene_synonym="COXII"
+                     /gene_synonym="MTCO2"
+                     /region_name="COX2_TM"
+                     /note="Cytochrome C oxidase subunit II, transmembrane domain; pfam02790"
+                     /db_xref="CDD:111663"
+     Region          1..26
+                     /gene="MT-CO2"
+                     /gene_synonym="COII"
+                     /gene_synonym="COXII"
+                     /gene_synonym="MTCO2"
+                     /region_name="Topological domain"
+                     /inference="non-experimental evidence, no additional
+                     details recorded"
+                     /note="Mitochondrial intermembrane (Potential)."
+   
+     Region          27..48
+                     /gene="MT-CO2"
+                     /gene_synonym="COII"
+                     /gene_synonym="COXII"
+                     /gene_synonym="MTCO2"
+                     /region_name="Transmembrane region"
+                     /inference="non-experimental evidence, no additional
+                     details recorded"
+                     /note="Potential."
+     Region          29
+                     /gene="MT-CO2"
+                     /gene_synonym="COII"
+                     /gene_synonym="COXII"
+                     /gene_synonym="MTCO2"
+                     /region_name="Variant"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="M -> K (in COX deficiency; affect the stability of the COX complex). 
+                     /FTId=VAR_035085."
+     
+     Region          49..62
+                     /gene="MT-CO2"
+                     /gene_synonym="COII"
+                     /gene_synonym="COXII"
+                     /gene_synonym="MTCO2"
+                     /region_name="Topological domain"
+                     /inference="non-experimental evidence, no additional
+                     details recorded"
+                     /note="Mitochondrial matrix (Potential)."
+     
+     Region          83..227
+                     /gene="MT-CO2"
+                     /gene_synonym="COII"
+                     /gene_synonym="COXII"
+                     /gene_synonym="MTCO2"
+                     /region_name="Topological domain"
+                     /inference="non-experimental evidence, no additional
+                     details recorded"
+                     /note="Mitochondrial intermembrane (Potential)."
+     Region          95..214
+                     /gene="MT-CO2"
+                     /gene_synonym="COII"
+                     /gene_synonym="COXII"
+                     /gene_synonym="MTCO2"
+                     /region_name="COX2"
+                     /note="Cytochrome C oxidase subunit II, periplasmic domain; pfam00116"
+                     /db_xref="CDD:109183"
+    
+     Region          142
+                     /gene="MT-CO2"
+                     /gene_synonym="COII"
+                     /gene_synonym="COXII"
+                     /gene_synonym="MTCO2"
+                     /region_name="Variant"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="V -> M (in colorectal cancer). /FTId=VAR_008390."
+   
+     Site            161
+                     /gene="MT-CO2"
+                     /gene_synonym="COII"
+                     /gene_synonym="COXII"
+                     /gene_synonym="MTCO2"
+                     /site_type="metal-binding"
+                     /inference="non-experimental evidence, no additional
+                     details recorded"
+                     /note="Copper A (Probable)."
+ 
+     Site            196
+                     /gene="MT-CO2"
+                     /gene_synonym="COII"
+                     /gene_synonym="COXII"
+                     /gene_synonym="MTCO2"
+                     /site_type="metal-binding"
+                     /inference="non-experimental evidence, no additional
+                     details recorded"
+                     /note="Copper A (Probable)."
+     Site            200
+                     /gene="MT-CO2"
+                     /gene_synonym="COII"
+                     /gene_synonym="COXII"
+                     /gene_synonym="MTCO2"
+                     /site_type="metal-binding"
+                     /inference="non-experimental evidence, no additional
+                     details recorded"
+                     /note="Copper A (Probable)."
+     Site            204
+                     /gene="MT-CO2"
+                     /gene_synonym="COII"
+                     /gene_synonym="COXII"
+                     /gene_synonym="MTCO2"
+                     /site_type="metal-binding"
+                     /inference="non-experimental evidence, no additional
+                     details recorded"
+                     /note="Copper A (Probable)."
