@@ -132,6 +132,9 @@ sed -i 's/\?$/East_Asia/g' /path/to/output/7544_filtered_pruned_data.ind
 4. **文件一致性检查失败**
    - 检查中间文件是否完整生成
    - 重新运行脚本
+5. **number of blocks <= 1**
+   - 这是由于遗传距离文件细菌只有 1 条染色体，若遗传图（.snp 文件第 3 列）全为 0 或跨度 < 0.05 M，则整条染色体会被视作 1–2 个 block，导致程序中止。
+   - 结局方案:减小 block 大小，blgsize:      0.0005   # 每 ~50 kb 切 1 block。
 
 ### 重复ID问题的技术说明
 
