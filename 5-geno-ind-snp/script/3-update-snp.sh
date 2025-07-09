@@ -15,10 +15,10 @@ chrom="1"
 #    - 第二列设为 “<染色体>_<物理位置>”（取自原第4列）  
 #    - 第三列插入 染色体编号  
 #    - 剩余列原样后移  
-awk -v CHR="$chrom" 'BEGIN { OFS=" " }
+awk -v CHR="$chrom" 'BEGIN { OFS="\t" }
 {
-  # 第1列：一个空格
-  printf "%s", " "
+  # 第1列：空字符串
+  printf "%s", ""
   # 第2列：CHR_物理位置（原第4列）
   printf "%s%s", OFS, CHR "_" $4
   # 第3列：CHR
@@ -27,6 +27,7 @@ awk -v CHR="$chrom" 'BEGIN { OFS=" " }
   for(i=3; i<=NF; i++){
     printf "%s%s", OFS, $i
   }
+  # 行尾换行
   printf "\n"
 }' "$orig" > "$upd"
 
