@@ -4,7 +4,7 @@
 set -euo pipefail
 
 # ================== 配置参数 ==================
-VCF_PATH="/mnt/f/0_现代DNA处理流程/output/merge/merged_filtered_anno_去除hots.vcf.gz"
+VCF_PATH="/mnt/f/0_现代DNA处理流程/output/merge/merged_filtered_去除hots.vcf.gz"
 OUT_PREFIX="/mnt/f/0_现代DNA处理流程/output/merge_fasta/merged_filtered_anno_去除hots"
 PYTHON_PATH="/home/luolintao/miniconda3/bin/python3"
 SCRIPT_PATH="/mnt/f/OneDrive/文档（科研）/脚本/Download/3-VCF2FASTA/1-VCF2FASTA/script/6_vcf2fasta_通过plink.py"
