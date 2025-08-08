@@ -1,14 +1,14 @@
-BASE_DIR='/mnt/f/0_现代DNA处理流程/script/2_ML_MRCA/script'
+BASE_DIR='/mnt/f/OneDrive/文档（科研）/脚本/Download/6-format-trans/7-PAML/script'
 
 /home/luolintao/miniconda3/bin/python3 \
     ${BASE_DIR}/3_结果整理.py \
-    ${BASE_DIR}/../OUTPUT/Result \
-    ${BASE_DIR}/../OUTPUT/
+    /mnt/f/6_起源地混合地/2-系统发育树/1-ML/output/PAML/Result_Africa \
+    /mnt/f/6_起源地混合地/2-系统发育树/1-ML/output/PAML/
 
 /home/luolintao/miniconda3/bin/python3 \
     ${BASE_DIR}/4_分子钟校准.py \
-    -t ${BASE_DIR}/../OUTPUT/ID_Length.tree \
-    -c ${BASE_DIR}/../OUTPUT/TIP_Length.csv \
+    -t /mnt/f/6_起源地混合地/2-系统发育树/1-ML/output/PAML/ID_Length.tree \
+    -c /mnt/f/6_起源地混合地/2-系统发育树/1-ML/output/PAML/TIP_Length.csv \
     -m 2.53e-8 \
-    -o ${BASE_DIR}/../Revised \
+    -o /mnt/f/6_起源地混合地/2-系统发育树/1-ML/output/PAML/Revised \
 

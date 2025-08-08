@@ -1,7 +1,7 @@
-      seqfile = /mnt/f/0_现代DNA处理流程/script/2_ML_MRCA/data/Example.fasta
-     treefile = /mnt/f/0_现代DNA处理流程/script/2_ML_MRCA/data/Example.treefile
+      seqfile = /mnt/f/6_起源地混合地/1-筛选样本/output/Africa.fasta.aln.fasta
+     treefile = /mnt/f/6_起源地混合地/2-系统发育树/1-ML/output/Africa.treefile
 
-      outfile = /mnt/f/0_现代DNA处理流程/script/2_ML_MRCA/OUTPUT/Result       * main result file
+      outfile = /mnt/f/6_起源地混合地/2-系统发育树/1-ML/output/PAML/Result_Africa       * main result file
         noisy = 3   * 屏幕输出冗余度（0=安静, 3=详细）
       verbose = 0   * 输出结果详细程度（0=简洁, 1=详细）
 
