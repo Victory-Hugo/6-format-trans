@@ -4,8 +4,8 @@
 set -euo pipefail
 
 # ================== 配置参数 ==================
-VCF_PATH="/mnt/f/0_现代DNA处理流程/output/Archive/merged_filtered_去除hots.vcf.gz"
-OUT_PREFIX="/mnt/f/0_现代DNA处理流程/output/Archive/merge_fasta/merged_filtered_anno_去除hots"
+VCF_PATH="/mnt/f/0_现代DNA处理流程/output/Archive/merge/merged_clean_filtered.N_去除hot.vcf.gz"
+OUT_PREFIX="/mnt/f/0_现代DNA处理流程/output/Archive/merge_fasta/merged_clean_filtered.N_去除hot"
 PYTHON_PATH="/home/luolintao/miniconda3/bin/python3"
 SCRIPT_PATH="/mnt/f/OneDrive/文档（科研）/脚本/Download/3-VCF2FASTA/1-VCF2FASTA/script/6_vcf2fasta_通过plink.py"
 MAPPING_FILE="/home/luolintao/07_20K_CPGDP/1_单倍群分型/data/质量控制_ID_Hap.tsv" #? 可以不添加这个参数，注释rename_fasta_ids函数
