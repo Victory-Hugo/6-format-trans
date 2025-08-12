@@ -55,8 +55,8 @@ def write_arp_file(lines: List[str], output_path: Path) -> None:
 
 def main():
     # —— 请根据实际情况修改以下路径 —— #
-    desktop = Path("C:/Users/victo/Desktop")
-    input_path = desktop / "新建 Text Document.txt" #todo 第一列是群体名，第二列是Group名
+    desktop = Path("/mnt/c/Users/Administrator/Desktop")
+    input_path = desktop / "2.txt" #todo 第一列是群体名，第二列是Group名
     output_path = desktop / "分组.arp" #todo 生成了arp之后直接将这个arp文件放到放到原始的arp末尾即可
     structure_name = "New Edited Structure"
 

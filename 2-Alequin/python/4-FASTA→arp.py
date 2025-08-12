@@ -110,7 +110,7 @@ def write_arp_file(output_path: Path,
 
 def main():
     # 配置文件路径
-    fasta_path = Path(r"/mnt/c/Users/Administrator/Desktop/Affey_chip_mtDNA.fasta") # todo fasta文件注意对齐
+    fasta_path = Path(r"/mnt/c/Users/Administrator/Desktop/merge.fasta.aln.fasta") # todo fasta文件注意对齐
     group_path = Path(r"/mnt/c/Users/Administrator/Desktop/1.txt") # todo txt文件第一列为ID，第二列为组名
     arp_path = Path(r"/mnt/c/Users/Administrator/Desktop/This_study.arp")
 
