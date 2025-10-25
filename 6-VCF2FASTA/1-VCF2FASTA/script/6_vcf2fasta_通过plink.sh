@@ -4,10 +4,10 @@
 set -euo pipefail
 
 # ================== 配置参数 ==================
-VCF_PATH="/mnt/f/0_现代DNA处理流程/output/Archive/merge/merged_clean_filtered.N_去除hot.vcf.gz"
-OUT_PREFIX="/mnt/f/0_现代DNA处理流程/output/Archive/merge_fasta/merged_clean_filtered.N_去除hot"
+VCF_PATH="/data_raid/7_luolintao/1_Baoman/4-Sequence-flow/Archive/merged_biallelic.NoN.maf01.mms99.WGS.recode.SNP.vcf.gz"
+OUT_PREFIX="/data_raid/7_luolintao/1_Baoman/4-Sequence-flow/merge_fasta/merged_clean_filtered.N_去除hot"
 PYTHON_PATH="/home/luolintao/miniconda3/bin/python3"
-SCRIPT_PATH="/mnt/f/OneDrive/文档（科研）/脚本/Download/3-VCF2FASTA/1-VCF2FASTA/script/6_vcf2fasta_通过plink.py"
+SCRIPT_PATH="/home/luolintao/0_Github/6-format-trans/6-VCF2FASTA/1-VCF2FASTA/script/6_vcf2fasta_通过plink_0toN.py"
 MAPPING_FILE="/home/luolintao/07_20K_CPGDP/1_单倍群分型/data/质量控制_ID_Hap.tsv" #? 可以不添加这个参数，注释rename_fasta_ids函数
 THREADS=32
 
@@ -16,10 +16,11 @@ THREADS=32
 
 function run_plink() {
     echo "[INFO] 正在使用 PLINK 处理 VCF 文件..."
-    /mnt/e/Scientifc_software/plink_linux_x86_64_20241022/plink --vcf "$VCF_PATH" \
+    plink --vcf "$VCF_PATH" \
         --threads "$THREADS" \
         --recode \
         --double-id \
+        --allow-extra-chr \
         --out "$OUT_PREFIX"
     echo "[INFO] PLINK 处理完成！"
 }
@@ -62,3 +63,4 @@ rm "$OUT_PREFIX".map
 rm "$OUT_PREFIX".log
 rm "$OUT_PREFIX".nosex
 echo "[DONE] 所有步骤执行完毕。"
+python3 /home/luolintao/test_mail.py "6-VCF2FASTA/1-VCF2FASTA/script/6_vcf2fasta_通过plink.sh任务完成通知" "<p>6-VCF2FASTA/1-VCF2FASTA/script/6_vcf2fasta_通过plink.sh分析已完成，请查看结果目录。</p>"

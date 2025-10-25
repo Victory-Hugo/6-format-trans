@@ -1,11 +1,11 @@
 #!/bin/bash
 
 # 定义输入目录
-INPUT_DIR="/mnt/d/幽门螺旋杆菌/Script/分析结果/1-序列处理流/output/Final_CSV_files/"
+INPUT_DIR="/data_raid/7_luolintao/1_Baoman/4-Sequence-flow/Final_CSV_N_files/"
 
 # 定义参考序列和输出目录
-REFERENCE_FASTA="/mnt/d/幽门螺旋杆菌/参考序列/NC_000915.fasta"
-OUTPUT_DIR="/mnt/d/幽门螺旋杆菌/Script/分析结果/1-序列处理流/output/merge_fasta/不考虑InDel/"
+REFERENCE_FASTA="/home/luolintao/0_Github/1-fasta-nucmer/2-nucmer运行/3-AB/conf/GCF_014672775.1.fasta"
+OUTPUT_DIR="/data_raid/7_luolintao/1_Baoman/4-Sequence-flow/merge_fasta/不考虑InDel/"
 
 # 定义日志文件路径，用于记录已处理的文件
 LOG_FILE="${OUTPUT_DIR}/processed_files.log"
@@ -63,7 +63,7 @@ cat "$PENDING_FILE_LIST" | parallel -j 4 --joblog "${OUTPUT_DIR}/parallel_joblog
     output_fasta=\"${OUTPUT_DIR}/\${csv_basename}.fasta\"; \
     if [ ! -f \"\$output_fasta\" ]; then \
         /home/luolintao/miniconda3/envs/pyg/bin/python3 \
-        /mnt/f/OneDrive/文档（科研）/脚本/Download/3-VCF2FASTA/1-VCF2FASTA/script/6_csv_fasta_noInDel.py \
+        /home/luolintao/0_Github/6-format-trans/6-VCF2FASTA/1-VCF2FASTA/script/6_csv_fasta_noInDel.py \
         {} \"$REFERENCE_FASTA\" \"$OUTPUT_DIR\" && \
         echo {} >> \"$LOG_FILE\" && \
         echo \"完成: \${csv_basename}\"; \
@@ -78,3 +78,4 @@ rm -f "$TEMP_FILE_LIST" "$PENDING_FILE_LIST"
 echo "CSV文件处理已完成。"
 processed_files=$(wc -l < "$LOG_FILE")
 echo "已处理文件总数: $processed_files / $total_files"
+python3 /home/luolintao/test_mail.py "6-VCF2FASTA/1-VCF2FASTA/script/6_csv_fasta.sh任务完成通知" "<p>6-VCF2FASTA/1-VCF2FASTA/script/6_csv_fasta.sh分析已完成，请查看结果目录。</p>"
