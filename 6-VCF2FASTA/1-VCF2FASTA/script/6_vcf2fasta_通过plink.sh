@@ -4,8 +4,8 @@
 set -euo pipefail
 
 # ================== 配置参数 ==================
-VCF_PATH="/data_raid/7_luolintao/1_Baoman/4-Sequence-flow/Archive/merged_biallelic.NoN.maf01.mms99.WGS.recode.SNP.vcf.gz"
-OUT_PREFIX="/data_raid/7_luolintao/1_Baoman/4-Sequence-flow/merge_fasta/merged_clean_filtered.N_去除hot"
+VCF_PATH="/data_raid/7_luolintao/1_Baoman/4-Sequence-flow/Archive/merged_clean.SNP.maf01.mms99.WGS.vcf.gz"
+OUT_PREFIX="/data_raid/7_luolintao/1_Baoman/4-Sequence-flow/Archive/merged_clean.SNP.maf01.mms99.WGS"
 PYTHON_PATH="/home/luolintao/miniconda3/bin/python3"
 SCRIPT_PATH="/home/luolintao/0_Github/6-format-trans/6-VCF2FASTA/1-VCF2FASTA/script/6_vcf2fasta_通过plink_0toN.py"
 MAPPING_FILE="/home/luolintao/07_20K_CPGDP/1_单倍群分型/data/质量控制_ID_Hap.tsv" #? 可以不添加这个参数，注释rename_fasta_ids函数

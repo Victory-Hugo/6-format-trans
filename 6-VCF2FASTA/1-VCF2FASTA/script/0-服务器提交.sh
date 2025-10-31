@@ -3,7 +3,7 @@
 
 # 配置
 SESSION_NAME="6_csv_fasta_run"
-SCRIPT_PATH="/home/luolintao/0_Github/6-format-trans/6-VCF2FASTA/1-VCF2FASTA/script/6_csv_fasta.sh"
+SCRIPT_PATH="/home/luolintao/0_Github/6-format-trans/6-VCF2FASTA/1-VCF2FASTA/script/6_vcf2fasta_通过plink.sh"
 LOG_FILE="6_csv_fasta_run.log"
 
 echo "🧬 启动 $SESSION_NAME 批处理..."
