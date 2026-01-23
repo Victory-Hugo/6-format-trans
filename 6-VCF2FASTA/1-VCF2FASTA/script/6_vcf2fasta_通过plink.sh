@@ -4,17 +4,10 @@
 set -euo pipefail
 
 # ================== 配置参数 ==================
-<<<<<<< HEAD
-VCF_PATH="/data_raid/7_luolintao/1_Baoman/4-Sequence-flow/Archive/merge/merged_clean_C++.SNP.maf01.mms99.WGS.vcf.gz"
-OUT_PREFIX="/data_raid/7_luolintao/1_Baoman/4-Sequence-flow/Archive/merge_fasta/1-VCF→FASTA/merged_clean_C++.SNP.maf01.mms99.WGS"
-PYTHON_PATH="/home/luolintao/miniconda3/bin/python3"
-SCRIPT_PATH="/home/luolintao/0_Github/6-format-trans/6-VCF2FASTA/1-VCF2FASTA/script/6_vcf2fasta_通过plink_0toN.py"
-=======
-VCF_PATH="/mnt/l/0_现代DNA处理流程/output/Archive/merge/merged_clean_C++_去除hots.vcf.gz"
-OUT_PREFIX="/mnt/l/0_现代DNA处理流程/output/Archive/merge_fasta/merged_clean_filtered.N_去除hot"
+VCF_PATH="/mnt/l/22-WHALE/4-ML/data/WHALE+外群.vcf.gz"
+OUT_PREFIX="/mnt/l/22-WHALE/4-ML/data/WHALE+外群_去除hot"
 PYTHON_PATH="/home/luolintao/miniconda3/envs/BigLin/bin/python3"
 SCRIPT_PATH="/mnt/f/OneDrive/文档（科研）/脚本/Download/3-VCF2FASTA/1-VCF2FASTA/script/6_vcf2fasta_通过plink.py"
->>>>>>> 41cc9e8 (2026年1月23日)
 MAPPING_FILE="/home/luolintao/07_20K_CPGDP/1_单倍群分型/data/质量控制_ID_Hap.tsv" #? 可以不添加这个参数，注释rename_fasta_ids函数
 THREADS=64
 
