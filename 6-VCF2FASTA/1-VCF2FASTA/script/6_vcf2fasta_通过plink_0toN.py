@@ -23,6 +23,6 @@ def replace_zeros_with_n(input_file_path, output_file_path):
     print(f"文件已处理并保存到：{output_file_path}")
 
 # 使用示例
-input_file_path = '/mnt/l/0_现代DNA处理流程/output/merged_clean_去除hot.fasta'  # 请替换为实际的输入文件路径
-output_file_path = '/mnt/l/0_现代DNA处理流程/output/merged_clean_去除hot_fix0.fasta'  # 请替换为你希望保存的输出文件路径
+input_file_path = '/home/luolintao/0_现代DNA处理流程/output/Archive/merged_clean_remmove_hots.fasta'  # 请替换为实际的输入文件路径
+output_file_path = '/home/luolintao/0_现代DNA处理流程/output/Archive/merged_clean_remmove_hots_fix0.fasta'  # 请替换为你希望保存的输出文件路径
 replace_zeros_with_n(input_file_path, output_file_path)
