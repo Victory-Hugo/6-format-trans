@@ -1,0 +1,263 @@
+IQ-TREE version 3.0.1 for Linux x86 64-bit built Jul  9 2025
+Developed by Bui Quang Minh, Thomas Wong, Nhan Ly-Trong, Huaiyan Ren
+Contributed by Lam-Tung Nguyen, Dominik Schrempf, Chris Bielow,
+Olga Chernomor, Michael Woodhams, Diep Thi Hoang, Heiko Schmidt
+
+Host:    Giantwhite-Biglin (AVX2, FMA3, 47 GB RAM)
+Command: iqtree3 -s /mnt/f/OneDrive/文档（科研）/脚本/Download/6-format-trans/6-VCF2FASTA/3-mtDNA-VCF→fasta/output/alignment.fasta -p /mnt/f/OneDrive/文档（科研）/脚本/Download/6-format-trans/6-VCF2FASTA/3-mtDNA-VCF→fasta/output/partition.nex -m MF+MERGE -T 16 --prefix /mnt/f/OneDrive/文档（科研）/脚本/Download/6-format-trans/6-VCF2FASTA/3-mtDNA-VCF→fasta/output/iqtree3/分区-模型选择
+Seed:    171664 (Using SPRNG - Scalable Parallel Random Number Generator)
+Time:    Fri Jul 10 12:05:23 2026
+Kernel:  AVX+FMA - 16 threads (24 CPU cores detected)
+
+Reading partition model file /mnt/f/OneDrive/文档（科研）/脚本/Download/6-format-trans/6-VCF2FASTA/3-mtDNA-VCF→fasta/output/partition.nex ...
+Reading alignment file /mnt/f/OneDrive/文档（科研）/脚本/Download/6-format-trans/6-VCF2FASTA/3-mtDNA-VCF→fasta/output/alignment.fasta ... Fasta format detected
+Reading fasta file: done in 0.113876 secs using 4.255% CPU
+Alignment most likely contains DNA/RNA sequences
+Constructing alignment: done in 0.0104603 secs using 1417% CPU
+Alignment has 95 sequences with 16554 columns, 406 distinct patterns
+251 parsimony-informative, 365 singleton sites, 15938 constant sites
+          Gap/Ambiguity  Composition  p-value
+Analyzing sequences: done in 2.0744e-05 secs using 96.41% CPU
+   1  KP076664    0.00%    passed     99.99%
+   2  KP340171    0.00%    passed     99.99%
+   3  KP345975    0.00%    passed     99.99%
+   4  KP345976    0.00%    passed    100.00%
+   5  KP345977    0.00%    passed     99.96%
+   6  KP345978    0.00%    passed     99.98%
+   7  KP345979    0.00%    passed    100.00%
+   8  KP345980    0.00%    passed     99.99%
+   9  KP345981    0.00%    passed     99.98%
+  10  KP345982    0.00%    passed     99.90%
+  11  KP345983    0.00%    passed     99.99%
+  12  KP345984    0.00%    passed     99.95%
+  13  KP345985    0.00%    passed    100.00%
+  14  KP345986    0.00%    passed     99.97%
+  15  KP345987    0.00%    passed    100.00%
+  16  KP345988    0.00%    passed     99.99%
+  17  KP345989    0.00%    passed     99.99%
+  18  KP345990    0.00%    passed     99.99%
+  19  KP345991    0.00%    passed     99.99%
+  20  KP345992    0.00%    passed    100.00%
+  21  KP345993    0.00%    passed     99.99%
+  22  KP345994    0.00%    passed     99.99%
+  23  KP345995    0.00%    passed     99.87%
+  24  KP345996    0.00%    passed     99.99%
+  25  KP345997    0.00%    passed     99.87%
+  26  KP345998    0.00%    passed     99.95%
+  27  KP345999    0.00%    passed    100.00%
+  28  KP346000    0.00%    passed     99.99%
+  29  KP346001    0.00%    passed     99.93%
+  30  KP346002    0.00%    passed     99.98%
+  31  KP346003    0.00%    passed    100.00%
+  32  KP346004    0.00%    passed     99.99%
+  33  KP346005    0.00%    passed     99.98%
+  34  KP346006    0.00%    passed     99.97%
+  35  KP346007    0.00%    passed     99.97%
+  36  KP346008    0.00%    passed     99.98%
+  37  KP346009    0.00%    passed     99.91%
+  38  KP346010    0.00%    passed     99.99%
+  39  KP346011    0.00%    passed    100.00%
+  40  KP346012    0.00%    passed     99.97%
+  41  KP346013    0.00%    passed     99.73%
+  42  KP346014    0.00%    passed    100.00%
+  43  KP346015    0.00%    passed    100.00%
+  44  KP346016    0.00%    passed    100.00%
+  45  KP346017    0.00%    passed     99.97%
+  46  KP346018    0.00%    passed     99.95%
+  47  KP346019    0.00%    passed     99.94%
+  48  KP346020    0.00%    passed     99.88%
+  49  KP346021    0.00%    passed    100.00%
+  50  KP346022    0.00%    passed     99.99%
+  51  KP346023    0.00%    passed     99.96%
+  52  KP346024    0.00%    passed     99.99%
+  53  KP346025    0.00%    passed    100.00%
+  54  KP346026    0.00%    passed     99.92%
+  55  KP346027    0.00%    passed     99.98%
+  56  KP346028    0.00%    passed    100.00%
+  57  KP346029    0.00%    passed    100.00%
+  58  KP346030    0.00%    passed     99.97%
+  59  KP346031    0.00%    passed    100.00%
+  60  KP346032    0.00%    passed     99.97%
+  61  KP346033    0.00%    passed     99.97%
+  62  KP346034    0.00%    passed     99.98%
+  63  KP346035    0.00%    passed     99.99%
+  64  KP346036    0.00%    passed    100.00%
+  65  KP346037    0.00%    passed     99.80%
+  66  KP346038    0.00%    passed     99.98%
+  67  KP346039    0.00%    passed     99.99%
+  68  KP346040    0.00%    passed     99.98%
+  69  KP346041    0.00%    passed     99.95%
+  70  KP346042    0.00%    passed     99.94%
+  71  KP346043    0.00%    passed    100.00%
+  72  KP346044    0.00%    passed    100.00%
+  73  KP346045    0.00%    passed     99.99%
+  74  KP346046    0.00%    passed     99.98%
+  75  KP346047    0.00%    passed     99.80%
+  76  KP346048    0.00%    passed     99.98%
+  77  KP346049    0.00%    passed    100.00%
+  78  KP346050    0.00%    passed     99.98%
+  79  KP346051    0.00%    passed     99.99%
+  80  KP346052    0.00%    passed     99.87%
+  81  KP346053    0.00%    passed    100.00%
+  82  KP346054    0.00%    passed     99.97%
+  83  KP346055    0.00%    passed     99.99%
+  84  KP346056    0.00%    passed    100.00%
+  85  KP346057    0.00%    passed     99.99%
+  86  KP346058    0.00%    passed     99.98%
+  87  KP346059    0.00%    passed    100.00%
+  88  KP346060    0.00%    passed     99.99%
+  89  KP346061    0.00%    passed    100.00%
+  90  KP346062    0.00%    passed     99.99%
+  91  KP346063    0.00%    passed     99.99%
+  92  KP346064    0.00%    passed     99.99%
+  93  KP346065    0.00%    passed    100.00%
+  94  KP346066    0.00%    passed    100.00%
+  95  RSRS        0.00%    passed     99.97%
+****  TOTAL       0.00%  0 sequences failed composition chi2 test (p-value<5%; df=3)
+NOTE: No CharPartition defined, use all CharSets
+
+Loading 7 partitions...
+Subset	Type	Seqs	Sites	Infor	Invar	Model	Name
+1		95	1108	72	976	MF+MERGE	control_region
+2		95	2512	24	2459	MF+MERGE	rRNA
+3		95	1504	14	1467	MF+MERGE	tRNA
+4		95	3785	39	3686	MF+MERGE	cds_pos1
+5		95	3780	9	3736	MF+MERGE	cds_pos2
+6		95	3776	90	3530	MF+MERGE	cds_pos3
+7		95	89	3	84	MF+MERGE	noncoding_other
+Degree of missing data: 0.000
+Info: multi-threading strategy over partitions and number of threads is changed to 7
+
+Note: For long partitions, you can use --parallel-over-sites option to force
+      multi-threading strategy over alignment sites and utilise all the threads.
+      However, parallelisation over sites will have adverse effect on short partitions.
+NOTE: KP345997 is identical to KP345995 but kept for subsequent analysis
+NOTE: KP346043 is identical to KP346036 but kept for subsequent analysis
+NOTE: KP346047 is identical to KP346037 but kept for subsequent analysis
+NOTE: KP346040 is identical to KP346038 but kept for subsequent analysis
+NOTE: KP346058 is identical to KP346050 but kept for subsequent analysis
+NOTE: KP346059 is identical to KP346056 but kept for subsequent analysis
+
+
+Create initial parsimony tree by phylogenetic likelihood library (PLL)... 0.004 seconds
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+Perform fast likelihood tree search using GTR+I+G model...
+Estimate model parameters (epsilon = 5.000)
+Initial log-likelihood: -29179.773
+Current log-likelihood at step 1: -27995.152
+Current log-likelihood at step 2: -27927.793
+Current log-likelihood at step 3: -27925.015
+Parameters optimization took 2 rounds (0.127 sec)
+
+
+WARNING: Estimated model parameters are at boundary that can cause numerical instability!
+
+Perform nearest neighbor interchange...
+Optimizing NNI: done in 0.0926303 secs using 1642% CPU
+Estimate model parameters (epsilon = 1.000)
+Initial log-likelihood: -27921.021
+Current log-likelihood at step 1: -27917.606
+Current log-likelihood at step 2: -27916.958
+Partition-specific rates:  5.405 0.547 0.574 0.565 0.234 1.375 1.244
+Parameters optimization took 1 rounds (0.055 sec)
+
+
+WARNING: Estimated model parameters are at boundary that can cause numerical instability!
+
+Time for fast ML tree search: 0.280 seconds
+
+NOTE: ModelFinder requires 18 MB RAM!
+
+PartitionFinder's parameters:
+Fast Relaxed Algorithm
+Percentage: 10.000
+Maximum pairs: 70
+
+Selecting individual models for 7 charsets using BIC...
+ No. Model        Score       TreeLen     Charset
+In ModelFinder: parallelization over partitions
+   1 GTR+F+I+G4   363.355     0.067       noncoding_other
+   2 GTR+F+I+G4   8123.061    0.029       rRNA
+   3 GTR+F+I+G4   4923.773    0.031       tRNA
+   4 GTR+F+I+G4   12446.637   0.030       cds_pos1
+   5 GTR+F+I+G4   10894.391   0.013       cds_pos2
+   6 GTR+F+I+G4   13207.306   0.074       cds_pos3
+   7 GTR+F+I+G4   6414.412    0.278       control_region
+Full partition model BIC score: 58362.897 (LnL: -27904.007  df:263)
+Merging models to increase model fit (about 14 total partition schemes)...
+   8 GTR+F+I+G4   58305.733   0.030       tRNA+cds_pos1
+   9 GTR+F+I+G4   58270.029   0.030       rRNA+cds_pos1
+Merging rRNA+cds_pos1 with BIC score: 58270.029 (LnL: -27911.002  df: 252)
+  10 GTR+F+I+G4   58204.355   0.030       rRNA+tRNA+cds_pos1	0h:0m:0s (0h:0m:0s left)
+  11 GTR+F+I+G4   58182.501   0.073       cds_pos3+noncoding_other	0h:0m:0s (0h:0m:0s left)
+2 compatible better partition pairs found
+Merging cds_pos3+noncoding_other with BIC score: 58182.501 (LnL: -27920.667  df: 241)
+Merging rRNA+tRNA+cds_pos1 with BIC score: 58116.826 (LnL: -27941.259  df: 230)
+  12 GTR+F+I+G4   58533.908   0.024       rRNA+tRNA+cds_pos1+cds_pos2	0h:0m:0s (0h:0m:0s left)
+Agglomerative model selection: (control_region,((rRNA,cds_pos1)1:58270,tRNA)3:58116.8,cds_pos2,(cds_pos3,noncoding_other)2:58182.5)
+Merging into 4 partitions...
+In ModelFinder: parallelization over partitions
+  13 HKY+F+I      10858.310   0.013       cds_pos2	0h:0m:1s (0h:0m:0s left)
+  14 TN+F+I       25351.512   0.029       rRNA+tRNA+cds_pos1	0h:0m:1s (0h:0m:0s left)
+  15 K3Pu+F+R3    6382.355    0.241       control_region	0h:0m:2s (0h:0m:-1s left)
+  16 TIM2+F+G4    13520.580   0.074       cds_pos3+noncoding_other	0h:0m:2s (0h:0m:-1s left)
+Best partition model BIC score: 57972.438 (LnL: -27932.209  df:217)
+Partition information was printed to /mnt/f/OneDrive/文档（科研）/脚本/Download/6-format-trans/6-VCF2FASTA/3-mtDNA-VCF→fasta/output/iqtree3/分区-模型选择.best_scheme.nex
+Partition information in Raxml format was printed to /mnt/f/OneDrive/文档（科研）/脚本/Download/6-format-trans/6-VCF2FASTA/3-mtDNA-VCF→fasta/output/iqtree3/分区-模型选择.best_scheme
+
+All model information printed to /mnt/f/OneDrive/文档（科研）/脚本/Download/6-format-trans/6-VCF2FASTA/3-mtDNA-VCF→fasta/output/iqtree3/分区-模型选择.model.gz
+CPU time for ModelFinder: 11.250 seconds (0h:0m:11s)
+Wall-clock time for ModelFinder: 3.308 seconds (0h:0m:3s)
+WARNING: 7 threads for alignment length 47 will slow down analysis
+WARNING: 7 threads for alignment length 47 will slow down analysis
+
+NOTE: 4 MB RAM (0 GB) is required!
+Estimate model parameters (epsilon = 0.010)
+Initial log-likelihood: -27929.432
+Current log-likelihood at step 1: -27928.897
+Current log-likelihood at step 2: -27928.871
+Current log-likelihood at step 3: -27928.869
+Partition-specific rates:  4.840 0.587 0.250 1.466
+Parameters optimization took 2 rounds (1.417 sec)
+
+
+WARNING: Estimated model parameters are at boundary that can cause numerical instability!
+
+Wrote distance file to... 
+Partition information was printed to /mnt/f/OneDrive/文档（科研）/脚本/Download/6-format-trans/6-VCF2FASTA/3-mtDNA-VCF→fasta/output/iqtree3/分区-模型选择.best_model.nex
+BEST SCORE FOUND : -27928.869
+Total tree length: 0.050
+
+Total number of iterations: 0
+CPU time used for tree search: 0.000 sec (0h:0m:0s)
+Wall-clock time used for tree search: 0.000 sec (0h:0m:0s)
+Total CPU time used: 12.634 sec (0h:0m:12s)
+Total wall-clock time used: 4.754 sec (0h:0m:4s)
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+WARNING: 7 threads for alignment length 47 will slow down analysis
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+WARNING: 7 threads for alignment length 47 will slow down analysis
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+WARNING: 7 threads for alignment length 47 will slow down analysis
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+
+Analysis results written to: 
+  IQ-TREE report:                /mnt/f/OneDrive/文档（科研）/脚本/Download/6-format-trans/6-VCF2FASTA/3-mtDNA-VCF→fasta/output/iqtree3/分区-模型选择.iqtree
+  Tree used for ModelFinder:     /mnt/f/OneDrive/文档（科研）/脚本/Download/6-format-trans/6-VCF2FASTA/3-mtDNA-VCF→fasta/output/iqtree3/分区-模型选择.treefile
+  Best partitioning scheme:      /mnt/f/OneDrive/文档（科研）/脚本/Download/6-format-trans/6-VCF2FASTA/3-mtDNA-VCF→fasta/output/iqtree3/分区-模型选择.best_scheme.nex
+           in RAxML format:      /mnt/f/OneDrive/文档（科研）/脚本/Download/6-format-trans/6-VCF2FASTA/3-mtDNA-VCF→fasta/output/iqtree3/分区-模型选择.best_scheme
+  Screen log file:               /mnt/f/OneDrive/文档（科研）/脚本/Download/6-format-trans/6-VCF2FASTA/3-mtDNA-VCF→fasta/output/iqtree3/分区-模型选择.log
+
+Date and Time: Fri Jul 10 12:05:28 2026
