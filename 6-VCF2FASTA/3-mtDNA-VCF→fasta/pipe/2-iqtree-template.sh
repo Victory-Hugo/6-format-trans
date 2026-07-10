@@ -5,20 +5,23 @@ ALIGN="$BASE_DIR/output/alignment.fasta" #! 或 concat_genes.aln.fasta
 PART="$BASE_DIR/output/partition.nex"     #* 分区文件（可选）
 OUTGROUP="RSRS"  #* 外群物种名（可选）
 mkdir -p "$BASE_DIR/output/iqtree3"
-iqtree3 \
-  -s "$ALIGN" \
-  -p "$PART" \
-  -m MF+MERGE \
-  -T 16 \
-  --prefix "$BASE_DIR/output/iqtree3/分区-模型选择"
 
 # iqtree3 \
 #   -s "$ALIGN" \
 #   -p "$PART" \
-#   -m MFP \
-#   -B 1000 --alrt 1000 \
-#   -T AUTO \
-#   --prefix /output/iqtree3/分区-模型选择-构树
+#   -m MF+MERGE \
+#   -T 16 \
+#   -redo \
+#   --prefix "$BASE_DIR/output/iqtree3/分区-模型选择"
+
+iqtree3 \
+  -s "$ALIGN" \
+  -p "$PART" \
+  -m MFP \
+  -B 1000 \
+  -T AUTO \
+  -o "$OUTGROUP" \
+  --prefix "$BASE_DIR/output/iqtree3/分区-模型选择-构树"
 
 # #*----------蛋白质模型----------
 # iqtree3 -s "$ALIGN" \

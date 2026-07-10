@@ -7,6 +7,6 @@ begin sets;
   charpartition mymodels =
     K3Pu+F+R3: control_region,
     TN+F+I: rRNA_tRNA_cds_pos1,
-    HKY+F+I: cds_pos2,
+    HKY+F: cds_pos2,
     TIM2+F+G4: cds_pos3_noncoding_other;
 end;

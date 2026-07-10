@@ -4,20 +4,20 @@ Contributed by Lam-Tung Nguyen, Dominik Schrempf, Chris Bielow,
 Olga Chernomor, Michael Woodhams, Diep Thi Hoang, Heiko Schmidt
 
 Host:    Giantwhite-Biglin (AVX2, FMA3, 47 GB RAM)
-Command: iqtree3 -s /mnt/f/OneDrive/文档（科研）/脚本/Download/6-format-trans/6-VCF2FASTA/3-mtDNA-VCF→fasta/output/alignment.fasta -p /mnt/f/OneDrive/文档（科研）/脚本/Download/6-format-trans/6-VCF2FASTA/3-mtDNA-VCF→fasta/output/partition.nex -m MF+MERGE -T 16 --prefix /mnt/f/OneDrive/文档（科研）/脚本/Download/6-format-trans/6-VCF2FASTA/3-mtDNA-VCF→fasta/output/iqtree3/分区-模型选择
-Seed:    171664 (Using SPRNG - Scalable Parallel Random Number Generator)
-Time:    Fri Jul 10 12:05:23 2026
+Command: iqtree3 -s /mnt/f/OneDrive/文档（科研）/脚本/Download/6-format-trans/6-VCF2FASTA/3-mtDNA-VCF→fasta/output/alignment.fasta -p /mnt/f/OneDrive/文档（科研）/脚本/Download/6-format-trans/6-VCF2FASTA/3-mtDNA-VCF→fasta/output/partition.nex -m MF+MERGE -T 16 -redo --prefix /mnt/f/OneDrive/文档（科研）/脚本/Download/6-format-trans/6-VCF2FASTA/3-mtDNA-VCF→fasta/output/iqtree3/分区-模型选择
+Seed:    95529 (Using SPRNG - Scalable Parallel Random Number Generator)
+Time:    Fri Jul 10 12:12:58 2026
 Kernel:  AVX+FMA - 16 threads (24 CPU cores detected)
 
 Reading partition model file /mnt/f/OneDrive/文档（科研）/脚本/Download/6-format-trans/6-VCF2FASTA/3-mtDNA-VCF→fasta/output/partition.nex ...
 Reading alignment file /mnt/f/OneDrive/文档（科研）/脚本/Download/6-format-trans/6-VCF2FASTA/3-mtDNA-VCF→fasta/output/alignment.fasta ... Fasta format detected
-Reading fasta file: done in 0.113876 secs using 4.255% CPU
+Reading fasta file: done in 0.0167952 secs using 11.48% CPU
 Alignment most likely contains DNA/RNA sequences
-Constructing alignment: done in 0.0104603 secs using 1417% CPU
+Constructing alignment: done in 0.00975054 secs using 1460% CPU
 Alignment has 95 sequences with 16554 columns, 406 distinct patterns
 251 parsimony-informative, 365 singleton sites, 15938 constant sites
           Gap/Ambiguity  Composition  p-value
-Analyzing sequences: done in 2.0744e-05 secs using 96.41% CPU
+Analyzing sequences: done in 1.9052e-05 secs using 94.48% CPU
    1  KP076664    0.00%    passed     99.99%
    2  KP340171    0.00%    passed     99.99%
    3  KP345975    0.00%    passed     99.99%
@@ -143,28 +143,28 @@ Create initial parsimony tree by phylogenetic likelihood library (PLL)... 0.004 
 WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
 Perform fast likelihood tree search using GTR+I+G model...
 Estimate model parameters (epsilon = 5.000)
-Initial log-likelihood: -29179.773
-Current log-likelihood at step 1: -27995.152
-Current log-likelihood at step 2: -27927.793
-Current log-likelihood at step 3: -27925.015
-Parameters optimization took 2 rounds (0.127 sec)
+Initial log-likelihood: -29177.488
+Current log-likelihood at step 1: -27996.008
+Current log-likelihood at step 2: -27925.220
+Current log-likelihood at step 3: -27920.997
+Parameters optimization took 2 rounds (0.130 sec)
 
 
 WARNING: Estimated model parameters are at boundary that can cause numerical instability!
 
 Perform nearest neighbor interchange...
-Optimizing NNI: done in 0.0926303 secs using 1642% CPU
+Optimizing NNI: done in 0.0772875 secs using 1565% CPU
 Estimate model parameters (epsilon = 1.000)
-Initial log-likelihood: -27921.021
-Current log-likelihood at step 1: -27917.606
-Current log-likelihood at step 2: -27916.958
-Partition-specific rates:  5.405 0.547 0.574 0.565 0.234 1.375 1.244
-Parameters optimization took 1 rounds (0.055 sec)
+Initial log-likelihood: -27912.418
+Current log-likelihood at step 1: -27911.362
+Current log-likelihood at step 2: -27910.380
+Partition-specific rates:  5.432 0.545 0.573 0.571 0.228 1.369 1.242
+Parameters optimization took 1 rounds (0.059 sec)
 
 
 WARNING: Estimated model parameters are at boundary that can cause numerical instability!
 
-Time for fast ML tree search: 0.280 seconds
+Time for fast ML tree search: 0.271 seconds
 
 NOTE: ModelFinder requires 18 MB RAM!
 
@@ -176,63 +176,67 @@ Maximum pairs: 70
 Selecting individual models for 7 charsets using BIC...
  No. Model        Score       TreeLen     Charset
 In ModelFinder: parallelization over partitions
-   1 GTR+F+I+G4   363.355     0.067       noncoding_other
-   2 GTR+F+I+G4   8123.061    0.029       rRNA
-   3 GTR+F+I+G4   4923.773    0.031       tRNA
-   4 GTR+F+I+G4   12446.637   0.030       cds_pos1
-   5 GTR+F+I+G4   10894.391   0.013       cds_pos2
-   6 GTR+F+I+G4   13207.306   0.074       cds_pos3
-   7 GTR+F+I+G4   6414.412    0.278       control_region
-Full partition model BIC score: 58362.897 (LnL: -27904.007  df:263)
+   1 GTR+F+I+G4   363.326     0.067       noncoding_other
+   2 GTR+F+I+G4   8123.286    0.029       rRNA
+   3 GTR+F+I+G4   10884.316   0.012       cds_pos2
+   4 GTR+F+I+G4   4922.532    0.031       tRNA
+   5 GTR+F+I+G4   12452.136   0.031       cds_pos1
+   6 GTR+F+I+G4   13195.370   0.073       cds_pos3
+   7 GTR+F+I+G4   6418.568    0.281       control_region
+Full partition model BIC score: 58349.497 (LnL: -27897.307  df:263)
 Merging models to increase model fit (about 14 total partition schemes)...
-   8 GTR+F+I+G4   58305.733   0.030       tRNA+cds_pos1
-   9 GTR+F+I+G4   58270.029   0.030       rRNA+cds_pos1
-Merging rRNA+cds_pos1 with BIC score: 58270.029 (LnL: -27911.002  df: 252)
-  10 GTR+F+I+G4   58204.355   0.030       rRNA+tRNA+cds_pos1	0h:0m:0s (0h:0m:0s left)
-  11 GTR+F+I+G4   58182.501   0.073       cds_pos3+noncoding_other	0h:0m:0s (0h:0m:0s left)
+   8 GTR+F+I+G4   58261.944   0.030       rRNA+tRNA
+   9 GTR+F+I+G4   58292.485   0.031       tRNA+cds_pos1
+Merging rRNA+tRNA with BIC score: 58261.944 (LnL: -27906.960  df: 252)
+  10 GTR+F+I+G4   58191.134   0.030       rRNA+tRNA+cds_pos1	0h:0m:0s (0h:0m:0s left)
+  11 GTR+F+I+G4   58174.892   0.073       cds_pos3+noncoding_other	0h:0m:0s (0h:0m:0s left)
 2 compatible better partition pairs found
-Merging cds_pos3+noncoding_other with BIC score: 58182.501 (LnL: -27920.667  df: 241)
-Merging rRNA+tRNA+cds_pos1 with BIC score: 58116.826 (LnL: -27941.259  df: 230)
-  12 GTR+F+I+G4   58533.908   0.024       rRNA+tRNA+cds_pos1+cds_pos2	0h:0m:0s (0h:0m:0s left)
-Agglomerative model selection: (control_region,((rRNA,cds_pos1)1:58270,tRNA)3:58116.8,cds_pos2,(cds_pos3,noncoding_other)2:58182.5)
+Merging cds_pos3+noncoding_other with BIC score: 58174.892 (LnL: -27916.863  df: 241)
+Merging rRNA+tRNA+cds_pos1 with BIC score: 58104.082 (LnL: -27934.887  df: 230)
+  12 GTR+F+I+G4   58522.149   0.024       rRNA+tRNA+cds_pos1+cds_pos2	0h:0m:0s (0h:0m:0s left)
+  13 GTR+F+I+G4   58828.678   0.044       rRNA+tRNA+cds_pos1+cds_pos3+noncoding_other	0h:0m:0s (0h:0m:0s left)
+Agglomerative model selection: (control_region,((rRNA,tRNA)1:58261.9,cds_pos1)3:58104.1,cds_pos2,(cds_pos3,noncoding_other)2:58174.9)
 Merging into 4 partitions...
 In ModelFinder: parallelization over partitions
-  13 HKY+F+I      10858.310   0.013       cds_pos2	0h:0m:1s (0h:0m:0s left)
-  14 TN+F+I       25351.512   0.029       rRNA+tRNA+cds_pos1	0h:0m:1s (0h:0m:0s left)
-  15 K3Pu+F+R3    6382.355    0.241       control_region	0h:0m:2s (0h:0m:-1s left)
-  16 TIM2+F+G4    13520.580   0.074       cds_pos3+noncoding_other	0h:0m:2s (0h:0m:-1s left)
-Best partition model BIC score: 57972.438 (LnL: -27932.209  df:217)
++R3 reinitialized from +R2 with factor 0.500
++R3 reinitialized from +R2 with factor 0.250
++I+R3 reinitialized from +I+R2 with factor 0.500
+  14 HKY+F        10844.975   0.012       cds_pos2	0h:0m:1s (0h:0m:0s left)
+  15 TN+F+I       25355.623   0.030       rRNA+tRNA+cds_pos1	0h:0m:1s (0h:0m:-1s left)
+  16 K3Pu+F+R3    6386.391    0.242       control_region	0h:0m:2s (0h:0m:-1s left)
+  17 TIM2+F+G4    13508.573   0.073       cds_pos3+noncoding_other	0h:0m:2s (0h:0m:-1s left)
+Best partition model BIC score: 57953.768 (LnL: -27927.731  df:216)
 Partition information was printed to /mnt/f/OneDrive/文档（科研）/脚本/Download/6-format-trans/6-VCF2FASTA/3-mtDNA-VCF→fasta/output/iqtree3/分区-模型选择.best_scheme.nex
 Partition information in Raxml format was printed to /mnt/f/OneDrive/文档（科研）/脚本/Download/6-format-trans/6-VCF2FASTA/3-mtDNA-VCF→fasta/output/iqtree3/分区-模型选择.best_scheme
 
 All model information printed to /mnt/f/OneDrive/文档（科研）/脚本/Download/6-format-trans/6-VCF2FASTA/3-mtDNA-VCF→fasta/output/iqtree3/分区-模型选择.model.gz
-CPU time for ModelFinder: 11.250 seconds (0h:0m:11s)
-Wall-clock time for ModelFinder: 3.308 seconds (0h:0m:3s)
+CPU time for ModelFinder: 10.835 seconds (0h:0m:10s)
+Wall-clock time for ModelFinder: 3.100 seconds (0h:0m:3s)
 WARNING: 7 threads for alignment length 47 will slow down analysis
 WARNING: 7 threads for alignment length 47 will slow down analysis
 
 NOTE: 4 MB RAM (0 GB) is required!
 Estimate model parameters (epsilon = 0.010)
-Initial log-likelihood: -27929.432
-Current log-likelihood at step 1: -27928.897
-Current log-likelihood at step 2: -27928.871
-Current log-likelihood at step 3: -27928.869
-Partition-specific rates:  4.840 0.587 0.250 1.466
-Parameters optimization took 2 rounds (1.417 sec)
+Initial log-likelihood: -27925.129
+Current log-likelihood at step 1: -27924.621
+Current log-likelihood at step 2: -27924.604
+Current log-likelihood at step 3: -27924.601
+Partition-specific rates:  4.858 0.589 0.243 1.465
+Parameters optimization took 2 rounds (1.298 sec)
 
 
 WARNING: Estimated model parameters are at boundary that can cause numerical instability!
 
 Wrote distance file to... 
 Partition information was printed to /mnt/f/OneDrive/文档（科研）/脚本/Download/6-format-trans/6-VCF2FASTA/3-mtDNA-VCF→fasta/output/iqtree3/分区-模型选择.best_model.nex
-BEST SCORE FOUND : -27928.869
+BEST SCORE FOUND : -27924.601
 Total tree length: 0.050
 
 Total number of iterations: 0
 CPU time used for tree search: 0.000 sec (0h:0m:0s)
 Wall-clock time used for tree search: 0.000 sec (0h:0m:0s)
-Total CPU time used: 12.634 sec (0h:0m:12s)
-Total wall-clock time used: 4.754 sec (0h:0m:4s)
+Total CPU time used: 12.408 sec (0h:0m:12s)
+Total wall-clock time used: 4.430 sec (0h:0m:4s)
 WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
 WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
 WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
@@ -260,4 +264,4 @@ Analysis results written to:
            in RAxML format:      /mnt/f/OneDrive/文档（科研）/脚本/Download/6-format-trans/6-VCF2FASTA/3-mtDNA-VCF→fasta/output/iqtree3/分区-模型选择.best_scheme
   Screen log file:               /mnt/f/OneDrive/文档（科研）/脚本/Download/6-format-trans/6-VCF2FASTA/3-mtDNA-VCF→fasta/output/iqtree3/分区-模型选择.log
 
-Date and Time: Fri Jul 10 12:05:28 2026
+Date and Time: Fri Jul 10 12:13:02 2026
