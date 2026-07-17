@@ -23,12 +23,12 @@ mkdir -p "${OUTPUT_DIR}"
     -r "${REF_FASTA}" \
     -S "${SAMPLE_LIST}" \
     --max-nexus-taxa "${MAX_NEXUS_TAXA}"
-#? 后续命令，使用iqtree3进行系统发育分析
-iqtree3 \
-  -s /mnt/c/Users/Administrator/Desktop/output/alignment.fasta \
-  -p /mnt/c/Users/Administrator/Desktop/output/partition.nex \
-  -m MFP \
-  -B 1000 \
-  --alrt 1000 \
-  -T AUTO \
-  --prefix /mnt/c/Users/Administrator/Desktop/output/alignment_MFP
+# #? 后续命令，使用iqtree3进行系统发育分析
+# iqtree3 \
+#   -s /mnt/c/Users/Administrator/Desktop/output/alignment.fasta \
+#   -p /mnt/c/Users/Administrator/Desktop/output/partition.nex \
+#   -m MFP \
+#   -B 1000 \
+#   --alrt 1000 \
+#   -T AUTO \
+#   --prefix /mnt/c/Users/Administrator/Desktop/output/alignment_MFP
